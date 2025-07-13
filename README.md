@@ -399,8 +399,8 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 
 <details><summary>July 2025</summary>
 
+- [14-07-2025](https://mstdn.social/@hisayakhere/114846303037218973)
 <!--
-- [14-07-2025]()
 - [15-07-2025]()
 - [16-07-2025]()
 - [17-07-2025]()
