@@ -133,8 +133,8 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 
 | Exam      | Year | Link                                                                                               | Status |
 |-----------|------|----------------------------------------------------------------------------------------------------|--------|
-| IACS UPST | 2022 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/main/Files/PYQs/PYQs-IACSUPST/UPST_2022.pdf) | ⏱️     |
-| IACS UPST | 2024 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/main/Files/PYQs/PYQs-IACSUPST/UPST_2024.pdf) | ⏱️     |
+| IACS UPST | 2022 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IACSUPST/UPST_2022.pdf) | ⏱️     |
+| IACS UPST | 2024 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IACSUPST/UPST_2024.pdf) | ⏱️     |
 
 ---
 
