@@ -10,68 +10,68 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 
 ### 📗 Physics
  
-| Book / Author       | Class / Volume / Title              | Link                                                                                                                  | Status |
-|---------------------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------|
-| NCERT               | 11                                  | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Physics/C11P/Class11-PhysicsNCERT.pdf) | ⏱️     |
-| NCERT               | 12                                  | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Physics/C12P/Class12-PhysicsNCERT.pdf) | ⏱️     |
-| HC Verma            | Volume 1                            | [View](https://readyourflow.com/download-hc-verma-concepts-of-physics-volume-1-2022-23/)                              | ⏱️     |
-| HC Verma            | Volume 2                            | [View](https://readyourflow.com/hc-verma-concepts-of-physics-volume-2-2022-23/)                                       | ⏱️     |
-| David-Morin         | Introduction to Classical Mechanics | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Physics/David-Morin.pdf)               | ⏱️     |
-| Kleppner & Kolenkow | An Introduction to Mechanics        | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Physics/Kleppner&Kolenkow.pdf)         | ⏱️     |
-| I.E Iridov          | Problems in General Physics         | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Physics/IE-Iridov.pdf)                 | ⏱️     |
+| Book / Author       | Class / Volume / Title              | Link                                                                                                    | Status |
+|---------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------|--------|
+| NCERT               | 11                                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C11P/Class11-PhysicsNCERT.pdf) | ⏱️     |
+| NCERT               | 12                                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C12P/Class12-PhysicsNCERT.pdf) | ⏱️     |
+| HC Verma            | Volume 1                            | [View](https://readyourflow.com/download-hc-verma-concepts-of-physics-volume-1-2022-23/)                | ⏱️     |
+| HC Verma            | Volume 2                            | [View](https://readyourflow.com/hc-verma-concepts-of-physics-volume-2-2022-23/)                         | ⏱️     |
+| David-Morin         | Introduction to Classical Mechanics | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/David-Morin.pdf)               | ⏱️     |
+| Kleppner & Kolenkow | An Introduction to Mechanics        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/Kleppner&Kolenkow.pdf)         | ⏱️     |
+| I.E Iridov          | Problems in General Physics         | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/IE-Iridov.pdf)                 | ⏱️     |
 
 ---
 
 ### 🧪 Chemistry
 
-| Book       | Class / Volume | Link                                                                                                                      | Status |
-|------------|----------------|---------------------------------------------------------------------------------------------------------------------------|--------|
-| NCERT      | 11             | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Chemistry/C11C/Class11-ChemistryNCERT.pdf) | ⏱️     |
-| NCERT      | 12             | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Chemistry/C12C/Class12-ChemistryNCERT.pdf) | ⏱️     |
-| OP Tandon  | Inorganic      | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Chemistry/OpTandon-Inorganic.pdf)          | ⏱️     |
-| OP Tandon  | Organic        | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Chemistry/OpTandon-Organic.pdf)            | ⏱️     |
-| OP Tandon  | Physical       | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Chemistry/OpTandon-Physical.pdf)           | ⏱️     |
+| Book       | Class / Volume | Link                                                                                                        | Status |
+|------------|----------------|-------------------------------------------------------------------------------------------------------------|--------|
+| NCERT      | 11             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/C11C/Class11-ChemistryNCERT.pdf) | ⏱️     |
+| NCERT      | 12             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/C12C/Class12-ChemistryNCERT.pdf) | ⏱️     |
+| OP Tandon  | Inorganic      | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Inorganic.pdf)          | ⏱️     |
+| OP Tandon  | Organic        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Organic.pdf)            | ⏱️     |
+| OP Tandon  | Physical       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Physical.pdf)           | ⏱️     |
 
 ---
 
 ### 📘 Maths
 
-| Book       | Class / Topic         | Link                                                                                                                                          | DPP                                                                                                                                | Status |
-|------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|--------|
-| NCERT      | 11                    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/C11M/Class11-MathematicsNCERT.pdf)                 | —                                                                                                                                  | ⏱️     |
-| NCERT      | 12                    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/C12M/Class12-MathematicsNCERT.pdf)                 | —                                                                                                                                  | ⏱️     |
-| RD Sharma  | 11 (Vol 1)            | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume1_2023-2024.pdf) | —                                                                                                                                  | ⏱️     |
-| RD Sharma  | 11 (Vol 2)            | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume2_2023-2024.pdf) | —                                                                                                                                  | ⏱️     |
-| RD Sharma  | 12 (MCQ)              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/C12M/RdSharma_Maths_Class12_MCQs_2023-2024.pdf)    | —                                                                                                                                  | ⏱️     |
-| RD Sharma  | 12 (Vol 1)            | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume1_2023-2024.pdf) | —                                                                                                                                  | ⏱️     |
-| RD Sharma  | 12 (Vol 2)            | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume2_2023-2024.pdf) | —                                                                                                                                  | ⏱️     |
-| Cengage    | Algebra               | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/Books/algebra.pdf)                         | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/DPP/dpp_algebra.pdf)            | ⏱️     |
-| Cengage    | Calculus              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/Books/calculus.pdf)                        | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/DPP/dpp_calculus.pdf)           | ⏱️     |
-| Cengage    | Coordinate Geometry   | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/Books/coordinateGeometry.pdf)              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/DPP/dpp_coordinategeometry.pdf) | ⏱️     |
-| Cengage    | Trigonometry          | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/Books/trigonometry.pdf)                    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/DPP/dpp_trigonometry.pdf)       | ⏱️     |
-| Cengage    | Vectors & 3D Geometry | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/Books/vectorsAnd3DGeometry.pdf)            | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Mathematics/Cengage/DPP/dpp_vectorsand3d.pdf)       | ⏱️     |
+| Book       | Class / Topic         | Link                                                                                                                            | DPP                                                                                                                  | Status |
+|------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------|
+| NCERT      | 11                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/Class11-MathematicsNCERT.pdf)                 | —                                                                                                                    | ⏱️     |
+| NCERT      | 12                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/Class12-MathematicsNCERT.pdf)                 | —                                                                                                                    | ⏱️     |
+| RD Sharma  | 11 (Vol 1)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume1_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
+| RD Sharma  | 11 (Vol 2)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume2_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
+| RD Sharma  | 12 (MCQ)              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_MCQs_2023-2024.pdf)    | —                                                                                                                    | ⏱️     |
+| RD Sharma  | 12 (Vol 1)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume1_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
+| RD Sharma  | 12 (Vol 2)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume2_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
+| Cengage    | Algebra               | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/algebra.pdf)                         | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_algebra.pdf)            | ⏱️     |
+| Cengage    | Calculus              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/calculus.pdf)                        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_calculus.pdf)           | ⏱️     |
+| Cengage    | Coordinate Geometry   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/coordinateGeometry.pdf)              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_coordinategeometry.pdf) | ⏱️     |
+| Cengage    | Trigonometry          | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/trigonometry.pdf)                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_trigonometry.pdf)       | ⏱️     |
+| Cengage    | Vectors & 3D Geometry | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/vectorsAnd3DGeometry.pdf)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_vectorsand3d.pdf)       | ⏱️     |
 
 ---
 
 ### 🧬 Biology
 
-| Book                   | Class / Volume        | Link                                                                                                                  | Status |
-|------------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------|--------|
-| NCERT                  | 11 _(Main Priority)_  | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C11B/Class11-BiologyNCERT.pdf) | ⏱️     |
-| NCERT                  | 12 _(Main Priority)_  | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/Class12-BiologyNCERT.pdf) | ⏱️     |
-| Trueman's Biology      | Volume 1 _(Optional)_ | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C11B/Trueman_1.pdf)            | ⏱️     |
-| Trueman's Biology      | Volume 2 _(Optional)_ | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/Trueman_2.pdf)            | ⏱️     |
-| Vedantu-Tatva Class 11 | Volume 1              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C11B/11BioVedantuTatva-1.pdf)  | ⏱️     |
-|                        | Volume 2              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C11B/11BioVedantuTatva-2.pdf)  | ⏱️     |
-|                        | Volume 3              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C11B/11BioVedantuTatva-3.pdf)  | ⏱️     |
-|                        | Volume 4              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C11B/11BioVedantuTatva-4.pdf)  | ⏱️     |
-|                        | Volume 5              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C11B/11BioVedantuTatva-5.pdf)  | ⏱️     |
-| Vedantu-Tatva Class 12 | Volume 1              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/12BioVedantuTatva-1.pdf)  | ⏱️     |
-|                        | Volume 2              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/12BioVedantuTatva-2.pdf)  | ⏱️     |
-|                        | Volume 3              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/12BioVedantuTatva-3.pdf)  | ⏱️     |
-|                        | Volume 4              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/12BioVedantuTatva-4.pdf)  | ⏱️     |
-|                        | Volume 5              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/12BioVedantuTatva-5.pdf)  | ⏱️     |
-|                        | Volume 6              | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/Biology/C12B/12BioVedantuTatva-6.pdf)  | ⏱️     |
+| Book                   | Class / Volume        | Link                                                                                                    | Status |
+|------------------------|-----------------------|---------------------------------------------------------------------------------------------------------|--------|
+| NCERT                  | 11 _(Main Priority)_  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/Class11-BiologyNCERT.pdf) | ⏱️     |
+| NCERT                  | 12 _(Main Priority)_  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/Class12-BiologyNCERT.pdf) | ⏱️     |
+| Trueman's Biology      | Volume 1 _(Optional)_ | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/Trueman_1.pdf)            | ⏱️     |
+| Trueman's Biology      | Volume 2 _(Optional)_ | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/Trueman_2.pdf)            | ⏱️     |
+| Vedantu-Tatva Class 11 | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-1.pdf)  | ⏱️     |
+|                        | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-2.pdf)  | ⏱️     |
+|                        | Volume 3              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-3.pdf)  | ⏱️     |
+|                        | Volume 4              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-4.pdf)  | ⏱️     |
+|                        | Volume 5              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-5.pdf)  | ⏱️     |
+| Vedantu-Tatva Class 12 | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-1.pdf)  | ⏱️     |
+|                        | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-2.pdf)  | ⏱️     |
+|                        | Volume 3              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-3.pdf)  | ⏱️     |
+|                        | Volume 4              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-4.pdf)  | ⏱️     |
+|                        | Volume 5              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-5.pdf)  | ⏱️     |
+|                        | Volume 6              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-6.pdf)  | ⏱️     |
 
 </details>
 
@@ -86,98 +86,98 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 
 ### 📝 IAT PYQs
 
-| Exam | Year | Link                                                                                                      | Status |
-|------|------|-----------------------------------------------------------------------------------------------------------|--------|
-| IAT  | 2017 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IAT/IAT2017.pdf) | ⏱️     |
-| IAT  | 2018 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IAT/IAT2018.pdf) | ⏱️     |
-| IAT  | 2019 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IAT/IAT2019.pdf) | ⏱️     |
-| IAT  | 2021 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IAT/IAT2021.pdf) | ⏱️     |
-| IAT  | 2022 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IAT/IAT2022.pdf) | ⏱️     |
-| IAT  | 2023 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IAT/IAT2023.pdf) | ⏱️     |
-| IAT  | 2024 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IAT/IAT2024.pdf) | ⏱️     |
+| Exam | Year | Link                                                                                        | Status |
+|------|------|---------------------------------------------------------------------------------------------|--------|
+| IAT  | 2017 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2017.pdf) | ⏱️     |
+| IAT  | 2018 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2018.pdf) | ⏱️     |
+| IAT  | 2019 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2019.pdf) | ⏱️     |
+| IAT  | 2021 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2021.pdf) | ⏱️     |
+| IAT  | 2022 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2022.pdf) | ⏱️     |
+| IAT  | 2023 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2023.pdf) | ⏱️     |
+| IAT  | 2024 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2024.pdf) | ⏱️     |
 
 ---
 
 ### 📝 NEST PYQs
 
-| Exam | Year | Session     | Link                                                                                                                   | Status |
-|------|------|-------------|------------------------------------------------------------------------------------------------------------------------|--------|
-| NEST | 2007 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2007.pdf)           | ⏱️     |
-| NEST | 2008 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2008.pdf)           | ⏱️     |
-| NEST | 2009 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2009.pdf)           | ⏱️     |
-| NEST | 2010 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2010.pdf)           | ⏱️     |
-| NEST | 2011 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2011.pdf)           | ⏱️     |
-| NEST | 2012 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2012.pdf)           | ⏱️     |
-| NEST | 2013 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2013.pdf)           | ⏱️     |
-| NEST | 2014 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2014.pdf)           | ⏱️     |
-| NEST | 2015 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2015.pdf)           | ⏱️     |
-| NEST | 2016 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2016.pdf)           | ⏱️     |
-| NEST | 2017 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2017.pdf)           | ⏱️     |
-| NEST | 2018 | —           | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2018.pdf)           | ⏱️     |
-| NEST | 2019 | Session1    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2019-Session-1.pdf) | ⏱️     |
-| NEST | 2019 | Session2    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2019-Session-2.pdf) | ⏱️     |
-| NEST | 2020 | Session1    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2020-Session-1.pdf) | ⏱️     |
-| NEST | 2020 | Session2    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2020-Session-2.pdf) | ⏱️     |
-| NEST | 2021 | Session1    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2021-Session-1.pdf) | ⏱️     |
-| NEST | 2021 | Session2    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2021-Session-2.pdf) | ⏱️     |
-| NEST | 2022 | Session1    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2022-Session-1.pdf) | ⏱️     |
-| NEST | 2022 | Session2    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2022-Session-2.pdf) | ⏱️     |
-| NEST | 2023 | Session1    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2023-Session-1.pdf) | ⏱️     |
-| NEST | 2023 | Session2    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2023-Session-2.pdf) | ⏱️     |
-| NEST | 2024 | Session1    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2024-Session-1.pdf) | ⏱️     |
-| NEST | 2024 | Session2    | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-NEST/NEST-2024-Session-2.pdf) | ⏱️     |
+| Exam | Year | Session     | Link                                                                                                     | Status |
+|------|------|-------------|----------------------------------------------------------------------------------------------------------|--------|
+| NEST | 2007 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2007.pdf)           | ⏱️     |
+| NEST | 2008 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2008.pdf)           | ⏱️     |
+| NEST | 2009 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2009.pdf)           | ⏱️     |
+| NEST | 2010 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2010.pdf)           | ⏱️     |
+| NEST | 2011 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2011.pdf)           | ⏱️     |
+| NEST | 2012 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2012.pdf)           | ⏱️     |
+| NEST | 2013 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2013.pdf)           | ⏱️     |
+| NEST | 2014 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2014.pdf)           | ⏱️     |
+| NEST | 2015 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2015.pdf)           | ⏱️     |
+| NEST | 2016 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2016.pdf)           | ⏱️     |
+| NEST | 2017 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2017.pdf)           | ⏱️     |
+| NEST | 2018 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2018.pdf)           | ⏱️     |
+| NEST | 2019 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2019-Session-1.pdf) | ⏱️     |
+| NEST | 2019 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2019-Session-2.pdf) | ⏱️     |
+| NEST | 2020 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2020-Session-1.pdf) | ⏱️     |
+| NEST | 2020 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2020-Session-2.pdf) | ⏱️     |
+| NEST | 2021 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2021-Session-1.pdf) | ⏱️     |
+| NEST | 2021 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2021-Session-2.pdf) | ⏱️     |
+| NEST | 2022 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2022-Session-1.pdf) | ⏱️     |
+| NEST | 2022 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2022-Session-2.pdf) | ⏱️     |
+| NEST | 2023 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2023-Session-1.pdf) | ⏱️     |
+| NEST | 2023 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2023-Session-2.pdf) | ⏱️     |
+| NEST | 2024 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2024-Session-1.pdf) | ⏱️     |
+| NEST | 2024 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2024-Session-2.pdf) | ⏱️     |
 
 ---
 
 ### 📝 IACS UPST PYQs
 
-| Exam      | Year | Link                                                                                                             | Status |
-|-----------|------|------------------------------------------------------------------------------------------------------------------|--------|
-| IACS UPST | 2022 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IACSUPST/UPST_2022.pdf) | ⏱️     |
-| IACS UPST | 2024 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-IACSUPST/UPST_2024.pdf) | ⏱️     |
+| Exam      | Year | Link                                                                                               | Status |
+|-----------|------|----------------------------------------------------------------------------------------------------|--------|
+| IACS UPST | 2022 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IACSUPST/UPST_2022.pdf) | ⏱️     |
+| IACS UPST | 2024 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IACSUPST/UPST_2024.pdf) | ⏱️     |
 
 ---
 
 ### 📝 JEE Advanced PYQs
 
-| Exam         | Year | Paper   | Link                                                                                                      | Status |
-|--------------|------|---------|-----------------------------------------------------------------------------------------------------------|--------|
-| JEE Advanced | 2007 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2007_1.pdf) | ⏱️     |
-| JEE Advanced | 2007 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2007_2.pdf) | ⏱️     |
-| JEE Advanced | 2008 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2008_1.pdf) | ⏱️     |
-| JEE Advanced | 2008 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2008_2.pdf) | ⏱️     |
-| JEE Advanced | 2009 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2009_1.pdf) | ⏱️     |
-| JEE Advanced | 2009 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2009_2.pdf) | ⏱️     |
-| JEE Advanced | 2010 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2010_1.pdf) | ⏱️     |
-| JEE Advanced | 2010 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2010_2.pdf) | ⏱️     |
-| JEE Advanced | 2011 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2011_1.pdf) | ⏱️     |
-| JEE Advanced | 2011 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2011_2.pdf) | ⏱️     |
-| JEE Advanced | 2012 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2012_1.pdf) | ⏱️     |
-| JEE Advanced | 2012 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2012_2.pdf) | ⏱️     |
-| JEE Advanced | 2013 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2013_1.pdf) | ⏱️     |
-| JEE Advanced | 2013 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2013_2.pdf) | ⏱️     |
-| JEE Advanced | 2014 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2014_1.pdf) | ⏱️     |
-| JEE Advanced | 2014 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2014_2.pdf) | ⏱️     |
-| JEE Advanced | 2015 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2015_1.pdf) | ⏱️     |
-| JEE Advanced | 2015 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2015_2.pdf) | ⏱️     |
-| JEE Advanced | 2016 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2016_1.pdf) | ⏱️     |
-| JEE Advanced | 2016 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2016_2.pdf) | ⏱️     |
-| JEE Advanced | 2017 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2017_1.pdf) | ⏱️     |
-| JEE Advanced | 2017 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2017_2.pdf) | ⏱️     |
-| JEE Advanced | 2018 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2018_1.pdf) | ⏱️     |
-| JEE Advanced | 2018 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2018_2.pdf) | ⏱️     |
-| JEE Advanced | 2019 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2019_1.pdf) | ⏱️     |
-| JEE Advanced | 2019 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2019_2.pdf) | ⏱️     |
-| JEE Advanced | 2020 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2020_1.pdf) | ⏱️     |
-| JEE Advanced | 2020 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2020_2.pdf) | ⏱️     |
-| JEE Advanced | 2021 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2021_1.pdf) | ⏱️     |
-| JEE Advanced | 2021 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2021_2.pdf) | ⏱️     |
-| JEE Advanced | 2022 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2022_1.pdf) | ⏱️     |
-| JEE Advanced | 2022 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2022_2.pdf) | ⏱️     |
-| JEE Advanced | 2023 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2023_1.pdf) | ⏱️     |
-| JEE Advanced | 2023 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2023_2.pdf) | ⏱️     |
-| JEE Advanced | 2024 | Paper 1 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2024_1.pdf) | ⏱️     |
-| JEE Advanced | 2024 | Paper 2 | [View](https://raw.githubusercontent.com/hisayakhere/Changing-250/master/Files/PYQs/PYQs-JEEA/2024_2.pdf) | ⏱️     |
+| Exam         | Year | Paper   | Link                                                                                        | Status |
+|--------------|------|---------|---------------------------------------------------------------------------------------------|--------|
+| JEE Advanced | 2007 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2007_1.pdf) | ⏱️     |
+| JEE Advanced | 2007 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2007_2.pdf) | ⏱️     |
+| JEE Advanced | 2008 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2008_1.pdf) | ⏱️     |
+| JEE Advanced | 2008 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2008_2.pdf) | ⏱️     |
+| JEE Advanced | 2009 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2009_1.pdf) | ⏱️     |
+| JEE Advanced | 2009 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2009_2.pdf) | ⏱️     |
+| JEE Advanced | 2010 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2010_1.pdf) | ⏱️     |
+| JEE Advanced | 2010 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2010_2.pdf) | ⏱️     |
+| JEE Advanced | 2011 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2011_1.pdf) | ⏱️     |
+| JEE Advanced | 2011 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2011_2.pdf) | ⏱️     |
+| JEE Advanced | 2012 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2012_1.pdf) | ⏱️     |
+| JEE Advanced | 2012 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2012_2.pdf) | ⏱️     |
+| JEE Advanced | 2013 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2013_1.pdf) | ⏱️     |
+| JEE Advanced | 2013 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2013_2.pdf) | ⏱️     |
+| JEE Advanced | 2014 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2014_1.pdf) | ⏱️     |
+| JEE Advanced | 2014 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2014_2.pdf) | ⏱️     |
+| JEE Advanced | 2015 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2015_1.pdf) | ⏱️     |
+| JEE Advanced | 2015 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2015_2.pdf) | ⏱️     |
+| JEE Advanced | 2016 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2016_1.pdf) | ⏱️     |
+| JEE Advanced | 2016 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2016_2.pdf) | ⏱️     |
+| JEE Advanced | 2017 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2017_1.pdf) | ⏱️     |
+| JEE Advanced | 2017 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2017_2.pdf) | ⏱️     |
+| JEE Advanced | 2018 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2018_1.pdf) | ⏱️     |
+| JEE Advanced | 2018 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2018_2.pdf) | ⏱️     |
+| JEE Advanced | 2019 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2019_1.pdf) | ⏱️     |
+| JEE Advanced | 2019 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2019_2.pdf) | ⏱️     |
+| JEE Advanced | 2020 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2020_1.pdf) | ⏱️     |
+| JEE Advanced | 2020 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2020_2.pdf) | ⏱️     |
+| JEE Advanced | 2021 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2021_1.pdf) | ⏱️     |
+| JEE Advanced | 2021 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2021_2.pdf) | ⏱️     |
+| JEE Advanced | 2022 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2022_1.pdf) | ⏱️     |
+| JEE Advanced | 2022 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2022_2.pdf) | ⏱️     |
+| JEE Advanced | 2023 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2023_1.pdf) | ⏱️     |
+| JEE Advanced | 2023 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2023_2.pdf) | ⏱️     |
+| JEE Advanced | 2024 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2024_1.pdf) | ⏱️     |
+| JEE Advanced | 2024 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2024_2.pdf) | ⏱️     |
 
 </details>
 
