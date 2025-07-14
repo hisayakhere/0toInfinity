@@ -6,7 +6,7 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 
 ## Books I follow 
 
-<details><summary>Click Here </summary>
+<details><summary>Click Here</summary>
 
 ### 📗 Physics
  
