@@ -4,79 +4,92 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 
 
 
-## Books I follow 
+## Books / Materials I follow 
 
-<details><summary>Click Here</summary>
-
-### 📗 Physics
+<details><summary>📗 Physics</summary>
  
-| Book / Author       | Class / Volume / Title              | Link                                                                                                    | Status |
-|---------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------|--------|
-| NCERT               | 11                                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C11P/Class11-PhysicsNCERT.pdf) | ⏱️     |
-|                     | 12                                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C12P/Class12-PhysicsNCERT.pdf) | ⏱️     |
-| HC Verma            | Volume 1                            | [View](https://readyourflow.com/download-hc-verma-concepts-of-physics-volume-1-2022-23/)                | ⏱️     |
-|                     | Volume 2                            | [View](https://readyourflow.com/hc-verma-concepts-of-physics-volume-2-2022-23/)                         | ⏱️     |
-| David-Morin         | Introduction to Classical Mechanics | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/David-Morin.pdf)               | ⏱️     |
-| Kleppner & Kolenkow | An Introduction to Mechanics        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/Kleppner&Kolenkow.pdf)         | ⏱️     |
-| I.E Iridov          | Problems in General Physics         | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/IE-Iridov.pdf)                 | ⏱️     |
-| S.L Arora           | Class 11 Volume 1                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C11P/11-SLArora-2.pdf)         | ⏱️     |
-|                     |          Volume 2                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C11P/11-SLArora-1.pdf)         | ⏱️     |
-|                     | Class 12 Volume 1                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C12P/12-SLArora-1.pdf)         | ⏱️     |
-|                     |          Volume 2                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C12P/12-SLArora-2.pdf)         | ⏱️     |
-| Resnick-Halliday    | Fundamentals of Physics             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/Resnick-Halliday.pdf)          | ⏱️     |
+| Book / Author       | Class / Volume / Title              | Link                                                                                                    |
+|---------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------|
+| NCERT               | 11                                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C11P/Class11-PhysicsNCERT.pdf) |
+|                     | 12                                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C12P/Class12-PhysicsNCERT.pdf) |
+| HC Verma            | Volume 1                            | [View](https://readyourflow.com/download-hc-verma-concepts-of-physics-volume-1-2022-23/)                |
+|                     | Volume 2                            | [View](https://readyourflow.com/hc-verma-concepts-of-physics-volume-2-2022-23/)                         |
+| David-Morin         | Introduction to Classical Mechanics | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/David-Morin.pdf)               |
+| Kleppner & Kolenkow | An Introduction to Mechanics        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/Kleppner&Kolenkow.pdf)         |
+| I.E Iridov          | Problems in General Physics         | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/IE-Iridov.pdf)                 |
+| S.L Arora           | Class 11 Volume 1                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C11P/11-SLArora-2.pdf)         |
+|                     |          Volume 2                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C11P/11-SLArora-1.pdf)         |
+|                     | Class 12 Volume 1                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C12P/12-SLArora-1.pdf)         |
+|                     |          Volume 2                   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/C12P/12-SLArora-2.pdf)         |
+| Resnick-Halliday    | Fundamentals of Physics             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/Resnick-Halliday.pdf)          |
+| SciAstra DPPs       |                                     | —                                                                                                       |
+| SciAstra Modules    | Volume 1                            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/SP1.pdf)                       |
+|                     | Volume 2                            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/SP2.pdf)                       |
 ---
+</details>
 
-### 🧪 Chemistry
+<details><summary>🧪 Chemistry</summary>
 
-| Book       | Class / Volume | Link                                                                                                        | Status |
-|------------|----------------|-------------------------------------------------------------------------------------------------------------|--------|
-| NCERT      | 11             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/C11C/Class11-ChemistryNCERT.pdf) | ⏱️     |
-|            | 12             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/C12C/Class12-ChemistryNCERT.pdf) | ⏱️     |
-| OP Tandon  | Inorganic      | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Inorganic.pdf)          | ⏱️     |
-|            | Organic        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Organic.pdf)            | ⏱️     |
-|            | Physical       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Physical.pdf)           | ⏱️     |
+| Book             | Class / Volume | Link                                                                                                        |
+|------------------|----------------|-------------------------------------------------------------------------------------------------------------|
+| NCERT            | 11             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/C11C/Class11-ChemistryNCERT.pdf) |
+|                  | 12             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/C12C/Class12-ChemistryNCERT.pdf) |
+| OP Tandon        | Inorganic      | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Inorganic.pdf)          |
+|                  | Organic        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Organic.pdf)            |
+|                  | Physical       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/OpTandon-Physical.pdf)           |
+| SciAstra DPPs    |                | —                                                                                                           |
+| SciAstra Modules | Volume 1       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/SC1.pdf)                         |
+|                  | Volume 2       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Chemistry/SC2.pdf)                         |
+---
+</details>
+
+<details><summary>📘 Maths</summary>
+
+| Book             | Class / Topic         | Link                                                                                                                            | DPP                                                                                                                  |
+|------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| NCERT            | 11                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/Class11-MathematicsNCERT.pdf)                 | —                                                                                                                    |
+|                  | 12                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/Class12-MathematicsNCERT.pdf)                 | —                                                                                                                    |
+| RD Sharma        | 11 (Vol 1)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume1_2023-2024.pdf) | —                                                                                                                    |
+|                  | 11 (Vol 2)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume2_2023-2024.pdf) | —                                                                                                                    |
+|                  | 12 (MCQ)              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_MCQs_2023-2024.pdf)    | —                                                                                                                    |
+|                  | 12 (Vol 1)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume1_2023-2024.pdf) | —                                                                                                                    |
+|                  | 12 (Vol 2)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume2_2023-2024.pdf) | —                                                                                                                    |
+| Cengage          | Algebra               | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/algebra.pdf)                         | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_algebra.pdf)            |
+|                  | Calculus              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/calculus.pdf)                        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_calculus.pdf)           |
+|                  | Coordinate Geometry   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/coordinateGeometry.pdf)              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_coordinategeometry.pdf) |
+|                  | Trigonometry          | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/trigonometry.pdf)                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_trigonometry.pdf)       |
+|                  | Vectors & 3D Geometry | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/vectorsAnd3DGeometry.pdf)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_vectorsand3d.pdf)       |
+| SciAstra DPPs    |                       | —                                                                                                                               | —                                                                                                                    |
+| SciAstra Modules | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/SM1.pdf)                                           |                                                                                                                      |
+|                  | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/SM2.pdf)                                           |                                                                                                                      |
+---
+</details>
+
+<details><summary>🧬 Biology</summary>
+
+| Book                   | Class / Volume        | Link                                                                                                    |
+|------------------------|-----------------------|---------------------------------------------------------------------------------------------------------|
+| NCERT                  | 11 _(Main Priority)_  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/Class11-BiologyNCERT.pdf) |
+|                        | 12 _(Main Priority)_  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/Class12-BiologyNCERT.pdf) |
+| Trueman's Biology      | Volume 1 _(Optional)_ | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/Trueman_1.pdf)            |
+|                        | Volume 2 _(Optional)_ | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/Trueman_2.pdf)            |
+| Vedantu-Tatva Class 11 | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-1.pdf)  |
+|                        | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-2.pdf)  |
+|                        | Volume 3              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-3.pdf)  |
+|                        | Volume 4              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-4.pdf)  |
+|                        | Volume 5              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-5.pdf)  |
+| Vedantu-Tatva Class 12 | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-1.pdf)  |
+|                        | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-2.pdf)  |
+|                        | Volume 3              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-3.pdf)  |
+|                        | Volume 4              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-4.pdf)  |
+|                        | Volume 5              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-5.pdf)  |
+|                        | Volume 6              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-6.pdf)  |
+| SciAstra DPPs          |                       | —                                                                                                       |
+| SciAstra Modules       | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/SB1.pdf)                       |
+|                        | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/SB2.pdf)                       |
 
 ---
-
-### 📘 Maths
-
-| Book       | Class / Topic         | Link                                                                                                                            | DPP                                                                                                                  | Status |
-|------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------|
-| NCERT      | 11                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/Class11-MathematicsNCERT.pdf)                 | —                                                                                                                    | ⏱️     |
-|            | 12                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/Class12-MathematicsNCERT.pdf)                 | —                                                                                                                    | ⏱️     |
-| RD Sharma  | 11 (Vol 1)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume1_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
-|            | 11 (Vol 2)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C11M/RdSharma_Maths_Class11_Volume2_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
-|            | 12 (MCQ)              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_MCQs_2023-2024.pdf)    | —                                                                                                                    | ⏱️     |
-|            | 12 (Vol 1)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume1_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
-|            | 12 (Vol 2)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/C12M/RdSharma_Maths_Class12_Volume2_2023-2024.pdf) | —                                                                                                                    | ⏱️     |
-| Cengage    | Algebra               | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/algebra.pdf)                         | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_algebra.pdf)            | ⏱️     |
-|            | Calculus              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/calculus.pdf)                        | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_calculus.pdf)           | ⏱️     |
-|            | Coordinate Geometry   | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/coordinateGeometry.pdf)              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_coordinategeometry.pdf) | ⏱️     |
-|            | Trigonometry          | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/trigonometry.pdf)                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_trigonometry.pdf)       | ⏱️     |
-|            | Vectors & 3D Geometry | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/Books/vectorsAnd3DGeometry.pdf)            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Mathematics/Cengage/DPP/dpp_vectorsand3d.pdf)       | ⏱️     |
-
----
-
-### 🧬 Biology
-
-| Book                   | Class / Volume        | Link                                                                                                    | Status |
-|------------------------|-----------------------|---------------------------------------------------------------------------------------------------------|--------|
-| NCERT                  | 11 _(Main Priority)_  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/Class11-BiologyNCERT.pdf) | ⏱️     |
-|                        | 12 _(Main Priority)_  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/Class12-BiologyNCERT.pdf) | ⏱️     |
-| Trueman's Biology      | Volume 1 _(Optional)_ | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/Trueman_1.pdf)            | ⏱️     |
-|                        | Volume 2 _(Optional)_ | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/Trueman_2.pdf)            | ⏱️     |
-| Vedantu-Tatva Class 11 | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-1.pdf)  | ⏱️     |
-|                        | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-2.pdf)  | ⏱️     |
-|                        | Volume 3              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-3.pdf)  | ⏱️     |
-|                        | Volume 4              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-4.pdf)  | ⏱️     |
-|                        | Volume 5              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C11B/11BioVedantuTatva-5.pdf)  | ⏱️     |
-| Vedantu-Tatva Class 12 | Volume 1              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-1.pdf)  | ⏱️     |
-|                        | Volume 2              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-2.pdf)  | ⏱️     |
-|                        | Volume 3              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-3.pdf)  | ⏱️     |
-|                        | Volume 4              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-4.pdf)  | ⏱️     |
-|                        | Volume 5              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-5.pdf)  | ⏱️     |
-|                        | Volume 6              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/C12B/12BioVedantuTatva-6.pdf)  | ⏱️     |
-
+</details>
 </details>
 
 
@@ -86,155 +99,158 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 
 ## PYQs
 
-<details><summary>Click Here</summary>
+<details><summary>📝 IAT PYQs</summary> 
 
-### 📝 IAT PYQs
-
-| Exam | Year | Link                                                                                        | Status |
-|------|------|---------------------------------------------------------------------------------------------|--------|
-| IAT  | 2017 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2017.pdf) | ⏱️     |
-|      | 2018 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2018.pdf) | ⏱️     |
-|      | 2019 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2019.pdf) | ⏱️     |
-|      | 2021 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2021.pdf) | ⏱️     |
-|      | 2022 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2022.pdf) | ⏱️     |
-|      | 2023 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2023.pdf) | ⏱️     |
-|      | 2024 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2024.pdf) | ⏱️     |
+| Exam | Year | Link                                                                                        |
+|------|------|---------------------------------------------------------------------------------------------|
+| IAT  | 2017 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2017.pdf) |
+|      | 2018 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2018.pdf) |
+|      | 2019 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2019.pdf) |
+|      | 2021 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2021.pdf) |
+|      | 2022 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2022.pdf) |
+|      | 2023 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2023.pdf) |
+|      | 2024 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IAT/IAT2024.pdf) |
 
 ---
+</details>
 
-### 📝 NEST PYQs
+<details><summary>📝 NEST PYQs</summary> 
 
-| Exam | Year | Session     | Link                                                                                                     | Status |
-|------|------|-------------|----------------------------------------------------------------------------------------------------------|--------|
-| NEST | 2007 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2007.pdf)           | ⏱️     |
-|      | 2008 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2008.pdf)           | ⏱️     |
-|      | 2009 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2009.pdf)           | ⏱️     |
-|      | 2010 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2010.pdf)           | ⏱️     |
-|      | 2011 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2011.pdf)           | ⏱️     |
-|      | 2012 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2012.pdf)           | ⏱️     |
-|      | 2013 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2013.pdf)           | ⏱️     |
-|      | 2014 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2014.pdf)           | ⏱️     |
-|      | 2015 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2015.pdf)           | ⏱️     |
-|      | 2016 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2016.pdf)           | ⏱️     |
-|      | 2017 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2017.pdf)           | ⏱️     |
-|      | 2018 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2018.pdf)           | ⏱️     |
-|      | 2019 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2019-Session-1.pdf) | ⏱️     |
-|      | 2019 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2019-Session-2.pdf) | ⏱️     |
-|      | 2020 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2020-Session-1.pdf) | ⏱️     |
-|      | 2020 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2020-Session-2.pdf) | ⏱️     |
-|      | 2021 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2021-Session-1.pdf) | ⏱️     |
-|      | 2021 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2021-Session-2.pdf) | ⏱️     |
-|      | 2022 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2022-Session-1.pdf) | ⏱️     |
-|      | 2022 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2022-Session-2.pdf) | ⏱️     |
-|      | 2023 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2023-Session-1.pdf) | ⏱️     |
-|      | 2023 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2023-Session-2.pdf) | ⏱️     |
-|      | 2024 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2024-Session-1.pdf) | ⏱️     |
-|      | 2024 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2024-Session-2.pdf) | ⏱️     |
-
----
-
-### 📝 IACS UPST PYQs
-
-| Exam      | Year | Link                                                                                               | Status |
-|-----------|------|----------------------------------------------------------------------------------------------------|--------|
-| IACS UPST | 2022 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IACSUPST/UPST_2022.pdf) | ⏱️     |
-|           | 2024 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IACSUPST/UPST_2024.pdf) | ⏱️     |
+| Exam | Year | Session     | Link                                                                                                     |
+|------|------|-------------|----------------------------------------------------------------------------------------------------------|
+| NEST | 2007 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2007.pdf)           |
+|      | 2008 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2008.pdf)           |
+|      | 2009 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2009.pdf)           |
+|      | 2010 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2010.pdf)           |
+|      | 2011 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2011.pdf)           |
+|      | 2012 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2012.pdf)           |
+|      | 2013 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2013.pdf)           |
+|      | 2014 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2014.pdf)           |
+|      | 2015 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2015.pdf)           |
+|      | 2016 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2016.pdf)           |
+|      | 2017 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2017.pdf)           |
+|      | 2018 | —           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2018.pdf)           |
+|      | 2019 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2019-Session-1.pdf) |
+|      | 2019 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2019-Session-2.pdf) |
+|      | 2020 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2020-Session-1.pdf) |
+|      | 2020 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2020-Session-2.pdf) |
+|      | 2021 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2021-Session-1.pdf) |
+|      | 2021 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2021-Session-2.pdf) |
+|      | 2022 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2022-Session-1.pdf) |
+|      | 2022 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2022-Session-2.pdf) |
+|      | 2023 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2023-Session-1.pdf) |
+|      | 2023 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2023-Session-2.pdf) |
+|      | 2024 | Session1    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2024-Session-1.pdf) |
+|      | 2024 | Session2    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-NEST/NEST-2024-Session-2.pdf) |
 
 ---
+</details>
 
-### 📝 JEE Advanced PYQs
+<details><summary>📝 IACS-UPST PYQs</summary> 
 
-| Exam         | Year | Paper   | Link                                                                                        | Status |
-|--------------|------|---------|---------------------------------------------------------------------------------------------|--------|
-| JEE Advanced | 2007 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2007_1.pdf) | ⏱️     |
-|              | 2007 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2007_2.pdf) | ⏱️     |
-|              | 2008 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2008_1.pdf) | ⏱️     |
-|              | 2008 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2008_2.pdf) | ⏱️     |
-|              | 2009 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2009_1.pdf) | ⏱️     |
-|              | 2009 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2009_2.pdf) | ⏱️     |
-|              | 2010 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2010_1.pdf) | ⏱️     |
-|              | 2010 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2010_2.pdf) | ⏱️     |
-|              | 2011 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2011_1.pdf) | ⏱️     |
-|              | 2011 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2011_2.pdf) | ⏱️     |
-|              | 2012 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2012_1.pdf) | ⏱️     |
-|              | 2012 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2012_2.pdf) | ⏱️     |
-|              | 2013 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2013_1.pdf) | ⏱️     |
-|              | 2013 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2013_2.pdf) | ⏱️     |
-|              | 2014 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2014_1.pdf) | ⏱️     |
-|              | 2014 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2014_2.pdf) | ⏱️     |
-|              | 2015 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2015_1.pdf) | ⏱️     |
-|              | 2015 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2015_2.pdf) | ⏱️     |
-|              | 2016 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2016_1.pdf) | ⏱️     |
-|              | 2016 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2016_2.pdf) | ⏱️     |
-|              | 2017 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2017_1.pdf) | ⏱️     |
-|              | 2017 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2017_2.pdf) | ⏱️     |
-|              | 2018 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2018_1.pdf) | ⏱️     |
-|              | 2018 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2018_2.pdf) | ⏱️     |
-|              | 2019 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2019_1.pdf) | ⏱️     |
-|              | 2019 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2019_2.pdf) | ⏱️     |
-|              | 2020 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2020_1.pdf) | ⏱️     |
-|              | 2020 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2020_2.pdf) | ⏱️     |
-|              | 2021 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2021_1.pdf) | ⏱️     |
-|              | 2021 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2021_2.pdf) | ⏱️     |
-|              | 2022 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2022_1.pdf) | ⏱️     |
-|              | 2022 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2022_2.pdf) | ⏱️     |
-|              | 2023 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2023_1.pdf) | ⏱️     |
-|              | 2023 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2023_2.pdf) | ⏱️     |
-|              | 2024 | Paper 1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2024_1.pdf) | ⏱️     |
-|              | 2024 | Paper 2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2024_2.pdf) | ⏱️     |
+| Exam      | Year | Link                                                                                               |
+|-----------|------|----------------------------------------------------------------------------------------------------|
+| IACS UPST | 2022 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IACSUPST/UPST_2022.pdf) |
+|           | 2024 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-IACSUPST/UPST_2024.pdf) |
+
+---
+</details>
+
+<details><summary>📝 JEE-Advanced PYQs</summary> 
+
+| Exam         | Year | Paper   | Link                                                                                        |
+|--------------|------|---------|---------------------------------------------------------------------------------------------|
+| JEE Advanced | 2007 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2007_1.pdf) |
+|              | 2007 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2007_2.pdf) |
+|              | 2008 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2008_1.pdf) |
+|              | 2008 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2008_2.pdf) |
+|              | 2009 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2009_1.pdf) |
+|              | 2009 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2009_2.pdf) |
+|              | 2010 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2010_1.pdf) |
+|              | 2010 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2010_2.pdf) |
+|              | 2011 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2011_1.pdf) |
+|              | 2011 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2011_2.pdf) |
+|              | 2012 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2012_1.pdf) |
+|              | 2012 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2012_2.pdf) |
+|              | 2013 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2013_1.pdf) |
+|              | 2013 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2013_2.pdf) |
+|              | 2014 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2014_1.pdf) |
+|              | 2014 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2014_2.pdf) |
+|              | 2015 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2015_1.pdf) |
+|              | 2015 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2015_2.pdf) |
+|              | 2016 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2016_1.pdf) |
+|              | 2016 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2016_2.pdf) |
+|              | 2017 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2017_1.pdf) |
+|              | 2017 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2017_2.pdf) |
+|              | 2018 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2018_1.pdf) |
+|              | 2018 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2018_2.pdf) |
+|              | 2019 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2019_1.pdf) |
+|              | 2019 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2019_2.pdf) |
+|              | 2020 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2020_1.pdf) |
+|              | 2020 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2020_2.pdf) |
+|              | 2021 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2021_1.pdf) |
+|              | 2021 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2021_2.pdf) |
+|              | 2022 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2022_1.pdf) |
+|              | 2022 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2022_2.pdf) |
+|              | 2023 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2023_1.pdf) |
+|              | 2023 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2023_2.pdf) |
+|              | 2024 | Paper1 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2024_1.pdf) |
+|              | 2024 | Paper2 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/PYQs/PYQs-JEEA/2024_2.pdf) |
 
 </details>
 
 ## My Efforts
+> ✅ Done<br>
+> ⛔ Not Done<br>
+> ⏱️ Ongoing<br>
+> 😞 I missed
 
-<details><summary>Click Here</summary>
 
-
-
-### Physics
+<details><summary>📗 Physics</summary>
 <!--
     *E -> Effort not Excuses 
-
     %% Way of Studying
     - Study Notes/Books
     - Do Deliberate Practice a lot of questions
     - Revision { Daily Revision + Sunday (Weekly Revision) }
     - Mock Test {Timed}
 -->
-| Sl No. | Chapter                                   | NOTES    | NCERT    | HC Verma | David-Morin | Kleppner & Kolenkow | I.E Iridov |
-|--------|-------------------------------------------|----------|----------|----------|-------------|---------------------|------------|
-| 01     | Basic Maths                               | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Physics/MyEfforts/NOTES/01/BasicMaths.pdf) | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-<!--
-| 02     | Units & Measurements / Basics             | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 03     | Motion In a Straight Line                 | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 04     | Motion In a Plane                         | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 05     | Laws of Motion                            | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 06     | Work, Energy & Power                      | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 07     | System of Particles and Rotational Motion | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 08     | Gravitation                               | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 09     | Mechanical Properties of Solids           | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 10     | Mechanical Properties of Fluids           | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 11     | Thermal Properties of Matter              | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 12     | Thermodynamics                            | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 13     | Kinetic Theory                            | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 14     | Oscillations                              | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 15     | Waves                                     | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 16     | Electric Charges & Feilds                 | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 17     | Electrostatic Potential & Capacitance     | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 18     | Current Electricity                       | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 19     | Moving Charges & Magnetism                | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 20     | Magnetism & Matter                        | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 21     | Electromagnetic Induction                 | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 22     | Alternating Current                       | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 23     | Electromagnetic Waves                     | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 24     | Ray Optics and Optical Instruments        | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 25     | Wave Optics                               | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 26     | Dual Nature of Radiation and Matter       | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 27     | Atoms                                     | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 28     | Nuclei                                    | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
-| 29     | Semiconductor                             | [View]() | [View]() | [View]() | [View]()    | [View]()            | [View]()   |
--->
-### Chemistry
+
+| Chapter                                   |1st-Time|
+|-------------------------------------------|--------|
+| Basic Maths                               | ⏱️     |
+| Units & Measurements                      | ⛔     |
+| Motion In a Straight Line                 | ⛔     |
+| Motion In a Plane                         | ⛔     |
+| Laws of Motion                            | ⛔     |
+| Work, Energy & Power                      | ⛔     |
+| System of Particles and Rotational Motion | ⛔     |
+| Gravitation                               | ⛔     |
+| Mechanical Properties of Solids           | ⛔     |
+| Mechanical Properties of Fluids           | ⛔     |
+| Thermal Properties of Matter              | ⛔     |
+| Thermodynamics                            | ⛔     |
+| Kinetic Theory                            | ⛔     |
+| Oscillations                              | ⛔     |
+| Waves                                     | ⛔     |
+| Electric Charges & Feilds                 | ⛔     |
+| Electrostatic Potential & Capacitance     | ⛔     |
+| Current Electricity                       | ⛔     |
+| Moving Charges & Magnetism                | ⛔     |
+| Magnetism & Matter                        | ⛔     |
+| Electromagnetic Induction                 | ⛔     |
+| Alternating Current                       | ⛔     |
+| Electromagnetic Waves                     | ⛔     |
+| Ray Optics and Optical Instruments        | ⛔     |
+| Wave Optics                               | ⛔     |
+| Dual Nature of Radiation and Matter       | ⛔     |
+| Atoms                                     | ⛔     |
+| Nuclei                                    | ⛔     |
+| Semiconductor                             | ⛔     |
+---
+</details>
+
+<details><summary>🧪 Chemistry</summary>
 <!--
     >>> R1 = Primary Revision (Theory + NCERT + DPP)
     >>> R2 = Revision 1 * From NOTES
@@ -259,201 +275,219 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
     - Focus on the real part neglect imaginery 
     - Don't be a Looser 
 -->
-<!--
-| Sl No. | Chapter                                 | NOTES      | DPP's + NCERT    | Op - Tandon | N. Awasthi | V.K Jaiswal| M.S Chouhan| Status | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R-final |
-|--------|-----------------------------------------|------------|------------------|-------------|------------|------------|------------|--------|----|----|----|----|----|----|----|---------|
-| 01     | Some Basic Concepts Of Chemistry        | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 02     | Structure of Atom                       | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 03     | Classification of Periodic Properties   | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 04     | Chemical Bonding                        | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 05     | Thermodynamics                          | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 06     | Equilibrium                             | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 07     | Redox Reactions                         | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 08     | Organic Chemistry - Basics              | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 09     | Hydrocarbons                            | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 10     | Solutions                               | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 11     | Electrochemistry                        | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 12     | Chemical Kinetics                       | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 13     | D & F Block                             | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 14     | Coordination Compounds                  | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 15     | Haloalkens & Haloarenes                 | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 16     | Alcohols, Phenols & Ethers              | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 17     | Aldehydes, Ketones and Carboxylic Acids | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 18     | Amines                                  | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
-| 19     | Biomolecules                            | [View]()   | [View]()         | [View]()    |[View]()    |[View]()    |[View]()    | ⏱️     | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️ | ⏱️     |
+
+| Chapter                                 |1st-Time|
+|-----------------------------------------|--------|
+| Some Basic Concepts Of Chemistry        | ⏱️     |
+| Structure of Atom                       | ⛔     |
+| Classification of Periodic Properties   | ⛔     |
+| Chemical Bonding                        | ⛔     |
+| Thermodynamics                          | ⛔     |
+| Equilibrium                             | ⛔     |
+| Redox Reactions                         | ⛔     |
+| Organic Chemistry - Basics              | ⛔     |
+| Hydrocarbons                            | ⛔     |
+| Solutions                               | ⛔     |
+| Electrochemistry                        | ⛔     |
+| Chemical Kinetics                       | ⛔     |
+| D & F Block                             | ⛔     |
+| Coordination Compounds                  | ⛔     |
+| Haloalkens & Haloarenes                 | ⛔     |
+| Alcohols, Phenols & Ethers              | ⛔     |
+| Aldehydes, Ketones and Carboxylic Acids | ⛔     |
+| Amines                                  | ⛔     |
+| Biomolecules                            | ⛔     |
+</details>
+
+<details><summary>📘 Mathematics</summary>
+<!-- 
+    ### Ancient Characteristics 
+        >>> Struggle --  Hardwork
+        >>> Focused
+        >>> Proper Sleep (6-8 hrs)
+        >>> Healthy Deight (Avoid Fast Food)
+        >>> Less Interaction with Relatives
+    ### Gen Z Characteristics
+        >>> Avoid Social Media
+        >>> Avoid Over-thinking 
+        %% Do's
+        -- Follow live class with Focus 
+        -- Revise the Notes and do each concept
+        -- Do NCERT Example & Exercise
+        -- Do DPPs
+        -- IAT/NEST Mock Book
+        -- Do Questions (More Practice and Examples)
+        -- NEVER fall in backlog
+        -- 4 copies (Class NOTES, DPP & Module, Mock Test Analysis, Extra Revision, )
 -->
-### Mathematics 
-<!--
-| Sl No. | Chapter                                 | NOTES      | NCERT    | RD Sharma | Cengage  |
-|--------|-----------------------------------------|------------|----------|-----------|----------|
-| 01     | Sets                                    | [View]()   | [View]() | [View]()  | [View]() |
-| 02     | Relations and Functions                 | [View]()   | [View]() | [View]()  | [View]() | 
-| 03     | Trigonometric Functions                 | [View]()   | [View]() | [View]()  | [View]() | 
-| 04     | Complex Numbers and Quadratic Equations | [View]()   | [View]() | [View]()  | [View]() | 
-| 05     | Linear Inequalities                     | [View]()   | [View]() | [View]()  | [View]() | 
-| 06     | Permutations and Combinations           | [View]()   | [View]() | [View]()  | [View]() | 
-| 07     | Binomial Theorem                        | [View]()   | [View]() | [View]()  | [View]() | 
-| 08     | Sequence and Series                     | [View]()   | [View]() | [View]()  | [View]() | 
-| 09     | Straight Lines                          | [View]()   | [View]() | [View]()  | [View]() | 
-| 10     | Conic Sections                          | [View]()   | [View]() | [View]()  | [View]() | 
-| 11     | Introduction to 3D Geometry             | [View]()   | [View]() | [View]()  | [View]() | 
-| 12     | Limits & Derivatives                    | [View]()   | [View]() | [View]()  | [View]() | 
-| 13     | Statistics                              | [View]()   | [View]() | [View]()  | [View]() | 
-| 14     | Probability                             | [View]()   | [View]() | [View]()  | [View]() | 
-| 15     | Relations and Functions                 | [View]()   | [View]() | [View]()  | [View]() |
-| 16     | Inverse Trigonometric Functions         | [View]()   | [View]() | [View]()  | [View]() |
-| 17     | Matrices                                | [View]()   | [View]() | [View]()  | [View]() |
-| 18     | Determinants                            | [View]()   | [View]() | [View]()  | [View]() |
-| 19     | Continuity and Differentiability        | [View]()   | [View]() | [View]()  | [View]() |
-| 20     | Application of Derivatives              | [View]()   | [View]() | [View]()  | [View]() |
-| 21     | Integrals                               | [View]()   | [View]() | [View]()  | [View]() |
-| 22     | Application of Integrals                | [View]()   | [View]() | [View]()  | [View]() |
-| 23     | Differential Equations                  | [View]()   | [View]() | [View]()  | [View]() |
-| 24     | Vector Algebra                          | [View]()   | [View]() | [View]()  | [View]() |
-| 25     | 3D Geometry                             | [View]()   | [View]() | [View]()  | [View]() |
-| 26     | Linear Programming                      | [View]()   | [View]() | [View]()  | [View]() |
-| 27     | Probability                             | [View]()   | [View]() | [View]()  | [View]() |
--->
-### Biology
+
+| Chapter                                 |1st-Time|
+|-----------------------------------------|--------|
+| Sets                                    | ⏱️     |
+| Relations and Functions                 | ⛔     |
+| Trigonometric Functions                 | ⛔     | 
+| Complex Numbers and Quadratic Equations | ⛔     | 
+| Linear Inequalities                     | ⛔     |  
+| Permutations and Combinations           | ⛔     |  
+| Binomial Theorem                        | ⛔     |  
+| Sequence and Series                     | ⛔     |  
+| Straight Lines                          | ⛔     |  
+| Conic Sections                          | ⛔     |  
+| Introduction to 3D Geometry             | ⛔     |  
+| Limits & Derivatives                    | ⛔     |  
+| Statistics                              | ⛔     |  
+| Probability                             | ⛔     |  
+| Relations and Functions                 | ⛔     | 
+| Inverse Trigonometric Functions         | ⛔     | 
+| Matrices                                | ⛔     | 
+| Determinants                            | ⛔     | 
+| Continuity and Differentiability        | ⛔     | 
+| Application of Derivatives              | ⛔     | 
+| Integrals                               | ⛔     | 
+| Application of Integrals                | ⛔     | 
+| Differential Equations                  | ⛔     | 
+| Vector Algebra                          | ⛔     | 
+| 3D Geometry                             | ⛔     | 
+| Linear Programming                      | ⛔     | 
+| Probability                             | ⛔     | 
+</details>
+
+<details><summary>🧬 Biology</summary>
 <!--
     *It is your Goal
-
     >>> Time is not a barrier
     >>> All concepts must be studied in Depth
     >>> Do not miss any lecture at any cost otherwise, it will lead to - procastination ❌
     >>> Repeated Cycle of Revision is must - fast 
     >>> Solving Multiple Different type of Question is Must 
 -->
-| Sl No. | Chapter                                  | NOTES                                                                                                         | NCERT    | Trueman's | Vedantu Tatva |
-|--------|------------------------------------------|---------------------------------------------------------------------------------------------------------------|----------|-----------|---------------|
-| 09     | Biomolecules                             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/09/Biomolecules.pdf) | [View]() | [View]()  | [View]()      |  
-<!--
-| 01     | The Living World                         | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      | 
-| 02     | Biological Classification                | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 03     | Plant Kingdom                            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 04     | Animal Kingdom                           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 05     | Morphology of Flowering Plants           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 06     | Anatomy of Flowering Plants              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 07     | Structural Organisation in Animals       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 08     | Cell : The Unit of Life                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |
--->
-<!--  
-| 10     | Cell Cycle & Cell Division               | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 11     | Photosynthesis in Higher Plants          | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 12     | Respiration in Plants                    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 13     | Plant Growth and Development             | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 14     | Breathing and Exchange of Gases          | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 15     | Body Fluids and Circulation              | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 16     | Excretory Products and their Elimination | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 17     | Locomotion and Movement                  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 18     | Neural Control and Coordination          | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 19     | Chemical Coordination and Integration    | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 20     | Sexual Reproduction in Flowering Plants  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 21     | Human Reproduction                       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 22     | Reproductive Health                      | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 23     | Principles of Inheritance and Variation  | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 24     | Molecular Basis of Inheritance           | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 25     | Evolution                                | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 26     | Human Health and Disease                 | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 27     | Microbes in Human Welfare                | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 28     | Biotechnology : Principles and Processes | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 29     | Biotechnology and its Applications       | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 30     | Organisms and Populations                | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 31     | Ecosystem                                | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
-| 32     | Biodiversity and Conservation            | [View](https://gitea.com/hisayakhere/Changing-250/raw/main/Files/Biology/MyEfforts/NOTES/) | [View]() | [View]()  | [View]()      |  
--->
-<!--
-### PYQs
-| Sl No. | Exam Name + Year + Session / Paper | Let's Solve |
-|--------|------------------------------------|-------------|
-| 01     | IAT 2017                           | [View]()    |
-| 02     | IAT 2018                           | [View]()    |
-| 03     | IAT 2019                           | [View]()    |
-| 04     | IAT 2021                           | [View]()    |
-| 05     | IAT 2022                           | [View]()    |
-| 06     | IAT 2023                           | [View]()    |
-| 07     | IAT 2024                           | [View]()    |
-| 08     | NEST 2007                          | [View]()    |
-| 09     | NEST 2008                          | [View]()    |
-| 10     | NEST 2009                          | [View]()    |
-| 11     | NEST 2010                          | [View]()    |
-| 12     | NEST 2011                          | [View]()    |
-| 13     | NEST 2012                          | [View]()    |
-| 14     | NEST 2013                          | [View]()    |
-| 15     | NEST 2014                          | [View]()    |
-| 16     | NEST 2015                          | [View]()    |
-| 17     | NEST 2016                          | [View]()    |
-| 18     | NEST 2017                          | [View]()    |
-| 19     | NEST 2018                          | [View]()    |
-| 20     | NEST 2019 Session-1                | [View]()    |
-| 21     | NEST 2019 Session-2                | [View]()    |
-| 22     | NEST 2020 Session-1                | [View]()    |
-| 23     | NEST 2020 Session-2                | [View]()    |
-| 24     | NEST 2021 Session-1                | [View]()    |
-| 25     | NEST 2021 Session-2                | [View]()    |
-| 26     | NEST 2022 Session-1                | [View]()    |
-| 27     | NEST 2022 Session-2                | [View]()    |
-| 28     | NEST 2023 Session-1                | [View]()    |
-| 29     | NEST 2023 Session-2                | [View]()    |
-| 30     | NEST 2024 Session-1                | [View]()    |
-| 31     | NEST 2024 Session-2                | [View]()    |
-| 32     | IACS UPST 2022                     | [View]()    |
-| 33     | IACS UPST 2024                     | [View]()    |
-| 34     | JEE Advanced 2007 Paper 1          | [View]()    |
-| 35     | JEE Advanced 2007 Paper 2          | [View]()    |
-| 36     | JEE Advanced 2008 Paper 1          | [View]()    |
-| 37     | JEE Advanced 2008 Paper 2          | [View]()    |
-| 38     | JEE Advanced 2009 Paper 1          | [View]()    |
-| 39     | JEE Advanced 2009 Paper 2          | [View]()    |
-| 40     | JEE Advanced 2010 Paper 1          | [View]()    |
-| 41     | JEE Advanced 2010 Paper 2          | [View]()    |
-| 42     | JEE Advanced 2011 Paper 1          | [View]()    |
-| 43     | JEE Advanced 2011 Paper 2          | [View]()    |
-| 44     | JEE Advanced 2012 Paper 1          | [View]()    |
-| 45     | JEE Advanced 2012 Paper 2          | [View]()    |
-| 46     | JEE Advanced 2013 Paper 1          | [View]()    |
-| 47     | JEE Advanced 2013 Paper 2          | [View]()    |
-| 48     | JEE Advanced 2014 Paper 1          | [View]()    |
-| 49     | JEE Advanced 2014 Paper 2          | [View]()    |
-| 50     | JEE Advanced 2015 Paper 1          | [View]()    |
-| 51     | JEE Advanced 2015 Paper 2          | [View]()    |
-| 52     | JEE Advanced 2016 Paper 1          | [View]()    |
-| 53     | JEE Advanced 2016 Paper 2          | [View]()    |
-| 54     | JEE Advanced 2017 Paper 1          | [View]()    |
-| 55     | JEE Advanced 2017 Paper 2          | [View]()    |
-| 56     | JEE Advanced 2018 Paper 1          | [View]()    |
-| 57     | JEE Advanced 2018 Paper 2          | [View]()    |
-| 58     | JEE Advanced 2019 Paper 1          | [View]()    |
-| 59     | JEE Advanced 2019 Paper 2          | [View]()    |
-| 60     | JEE Advanced 2020 Paper 1          | [View]()    |
-| 61     | JEE Advanced 2020 Paper 2          | [View]()    |
-| 62     | JEE Advanced 2021 Paper 1          | [View]()    |
-| 63     | JEE Advanced 2021 Paper 2          | [View]()    |
-| 64     | JEE Advanced 2022 Paper 1          | [View]()    |
-| 65     | JEE Advanced 2022 Paper 2          | [View]()    |
-| 66     | JEE Advanced 2023 Paper 1          | [View]()    |
-| 67     | JEE Advanced 2023 Paper 2          | [View]()    |
-| 68     | JEE Advanced 2024 Paper 1          | [View]()    |
-| 69     | JEE Advanced 2024 Paper 2          | [View]()    |
+
+| Chapter                                  |1st-Time|
+|------------------------------------------|--------|
+| Biomolecules                             | ⏱️     |
+| The Living World                         | ⛔     |
+| Biological Classification                | ⛔     |   
+| Plant Kingdom                            | ⛔     |   
+| Animal Kingdom                           | ⛔     |   
+| Morphology of Flowering Plants           | ⛔     |   
+| Anatomy of Flowering Plants              | ⛔     |   
+| Structural Organisation in Animals       | ⛔     |   
+| Cell : The Unit of Life                  | ⛔     |   
+| Cell Cycle & Cell Division               | ⛔     |   
+| Photosynthesis in Higher Plants          | ⛔     |   
+| Respiration in Plants                    | ⛔     |   
+| Plant Growth and Development             | ⛔     |   
+| Breathing and Exchange of Gases          | ⛔     |   
+| Body Fluids and Circulation              | ⛔     |   
+| Excretory Products and their Elimination | ⛔     |   
+| Locomotion and Movement                  | ⛔     |   
+| Neural Control and Coordination          | ⛔     |   
+| Chemical Coordination and Integration    | ⛔     |   
+| Sexual Reproduction in Flowering Plants  | ⛔     |   
+| Human Reproduction                       | ⛔     |   
+| Reproductive Health                      | ⛔     |   
+| Principles of Inheritance and Variation  | ⛔     |   
+| Molecular Basis of Inheritance           | ⛔     |   
+| Evolution                                | ⛔     |   
+| Human Health and Disease                 | ⛔     |   
+| Microbes in Human Welfare                | ⛔     |   
+| Biotechnology : Principles and Processes | ⛔     |   
+| Biotechnology and its Applications       | ⛔     |   
+| Organisms and Populations                | ⛔     |   
+| Ecosystem                                | ⛔     |   
+| Biodiversity and Conservation            | ⛔     |   
+</details>
+
+<details><summary>📝 PYQs</summary>
+
+| Exam Name + Year + Session / Paper | Status |
+|------------------------------------|--------|
+| IAT 2017                           | ⛔     |
+| IAT 2018                           | ⛔     |
+| IAT 2019                           | ⛔     |
+| IAT 2021                           | ⛔     |
+| IAT 2022                           | ⛔     |
+| IAT 2023                           | ⛔     |
+| IAT 2024                           | ⛔     |
+| NEST 2007                          | ⛔     |
+| NEST 2008                          | ⛔     |
+| NEST 2009                          | ⛔     |
+| NEST 2010                          | ⛔     |
+| NEST 2011                          | ⛔     |
+| NEST 2012                          | ⛔     |
+| NEST 2013                          | ⛔     |
+| NEST 2014                          | ⛔     |
+| NEST 2015                          | ⛔     |
+| NEST 2016                          | ⛔     |
+| NEST 2017                          | ⛔     |
+| NEST 2018                          | ⛔     |
+| NEST 2019 Session-1                | ⛔     |
+| NEST 2019 Session-2                | ⛔     |
+| NEST 2020 Session-1                | ⛔     |
+| NEST 2020 Session-2                | ⛔     |
+| NEST 2021 Session-1                | ⛔     |
+| NEST 2021 Session-2                | ⛔     |
+| NEST 2022 Session-1                | ⛔     |
+| NEST 2022 Session-2                | ⛔     |
+| NEST 2023 Session-1                | ⛔     |
+| NEST 2023 Session-2                | ⛔     |
+| NEST 2024 Session-1                | ⛔     |
+| NEST 2024 Session-2                | ⛔     |
+| IACS UPST 2022                     | ⛔     |
+| IACS UPST 2024                     | ⛔     |
+| JEE Advanced 2007 Paper 1          | ⛔     |
+| JEE Advanced 2007 Paper 2          | ⛔     |
+| JEE Advanced 2008 Paper 1          | ⛔     |
+| JEE Advanced 2008 Paper 2          | ⛔     |
+| JEE Advanced 2009 Paper 1          | ⛔     |
+| JEE Advanced 2009 Paper 2          | ⛔     |
+| JEE Advanced 2010 Paper 1          | ⛔     |
+| JEE Advanced 2010 Paper 2          | ⛔     |
+| JEE Advanced 2011 Paper 1          | ⛔     |
+| JEE Advanced 2011 Paper 2          | ⛔     |
+| JEE Advanced 2012 Paper 1          | ⛔     |
+| JEE Advanced 2012 Paper 2          | ⛔     |
+| JEE Advanced 2013 Paper 1          | ⛔     |
+| JEE Advanced 2013 Paper 2          | ⛔     |
+| JEE Advanced 2014 Paper 1          | ⛔     |
+| JEE Advanced 2014 Paper 2          | ⛔     |
+| JEE Advanced 2015 Paper 1          | ⛔     |
+| JEE Advanced 2015 Paper 2          | ⛔     |
+| JEE Advanced 2016 Paper 1          | ⛔     |
+| JEE Advanced 2016 Paper 2          | ⛔     |
+| JEE Advanced 2017 Paper 1          | ⛔     |
+| JEE Advanced 2017 Paper 2          | ⛔     |
+| JEE Advanced 2018 Paper 1          | ⛔     |
+| JEE Advanced 2018 Paper 2          | ⛔     |
+| JEE Advanced 2019 Paper 1          | ⛔     |
+| JEE Advanced 2019 Paper 2          | ⛔     |
+| JEE Advanced 2020 Paper 1          | ⛔     |
+| JEE Advanced 2020 Paper 2          | ⛔     |
+| JEE Advanced 2021 Paper 1          | ⛔     |
+| JEE Advanced 2021 Paper 2          | ⛔     |
+| JEE Advanced 2022 Paper 1          | ⛔     |
+| JEE Advanced 2022 Paper 2          | ⛔     |
+| JEE Advanced 2023 Paper 1          | ⛔     |
+| JEE Advanced 2023 Paper 2          | ⛔     |
+| JEE Advanced 2024 Paper 1          | ⛔     |
+| JEE Advanced 2024 Paper 2          | ⛔     |
 -->
 </details>
 
+
 ## Daily Wins
 
-<details><summary>Click Here</summary>
-<br>
 
-> क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते।  
-> क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप॥
 
+> Will Update Daily
 
 <details><summary>July 2025</summary>
 
 - [14-07-2025](https://mstdn.social/@hisayakhere/114846303037218973)
+- [15-07-2025](https://mstdn.social/@hisayakhere/114852946324497271)
+- [16-07-2025](https://mstdn.social/@hisayakhere/114861229613172226)
+- [17-07-2025](https://mstdn.social/@hisayakhere/114864216190636271)
 <!--
-- [15-07-2025]()
-- [16-07-2025]()
-- [17-07-2025]()
 - [18-07-2025]()
 - [19-07-2025]()
 - [20-07-2025]()
@@ -724,6 +758,4 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
 - [18-03-2026]()
 </details>
 -->
-</details>
-
 
