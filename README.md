@@ -793,7 +793,7 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 
 ## 🎥 Movie I watch 😍
 
-<video width="600" controls>
-  <source src="https://gitea.com/leenazeliang/Interstellar/raw/main/Files/Interstellar-EnglishOnly.mp4" type="video/mp4">
-  Sorry, your browser doesn't support embedded videos.
-</video>
+Click On the Image to, watch it 👇🏽
+<div align="center">
+<a href="https://gitea.com/leenazeliang/Interstellar/src/branch/main/Files/Interstellar-EnglishOnly.mp4"><img src="https://github.com/hisayakhere/Changing-250/blob/master/I2011CNMF1.jpg" alt="Video thumbnail" width="200" ></a>
+</div>
