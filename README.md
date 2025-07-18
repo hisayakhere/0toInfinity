@@ -1,6 +1,19 @@
 # Changing 250
 
-Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250 days—I'm dedicating myself to an immersive journey into the world of science. While my ultimate goal is to get into one of India's top research institutes to study Physics (primarily **IISc**), right now, I just want to enjoy the process. Over this period, I’ll be diving deep into the core subjects of **Physics, Chemistry, Mathematics**, and **Biology**, focusing on both foundational and advanced topics of **Class 11 and Class 12**. In the meantime, I’ll also be preparing for three major exams—**[IAT](https://www.iiseradmission.in/), [NEST](https://nestexam.in/)**, and **[IACS-UPST](https://iacs.res.in/)**—which form my Plan A, Plan B, and Plan C. Let’s explore science with curiosity, consistency, and joy.
+### 👋 Hi, I'm Sayak
+
+From **14th July 2025 to 21st March 2026**—for the next **250 days**—I’m dedicating myself to an immersive journey into the world of science. While my ultimate goal is to get into one of India's top research institutes to study **Physics** (primarily **IISc**), my current focus is to enjoy the learning process itself.
+
+During this time, I’ll be diving deep into the core subjects of **Physics, Chemistry, Mathematics**, and **Biology**, exploring both foundational and advanced concepts from **Class 11 and 12**.
+
+### 🎯 Target Exams (Plan A to E):
+- **[IAT](https://www.iiseradmission.in/)** – IISc and IISERs
+- **[NEST](https://www.nestexam.in/)** – NISER & UM-DAE CEBS
+- **[IACS-UPST](https://www.iacs.res.in/)** – IACS Kolkata
+- **[CMI Entrance](https://www.cmi.ac.in/admissions/)** – CMI Chennai (Mathematics & Science)
+- **[CUET (UG)](https://cuet.nta.nic.in/banaras-hindu-university/)** – Targeting B.Sc.(Hons.)[Mathematics Group] at BHU
+
+This isn’t just exam prep — it’s a mission to explore science with **curiosity**, **consistency**, and **joy**. 🌱🚀
 
 
 
@@ -216,37 +229,37 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
     - Mock Test {Timed}
 -->
 
-| Chapter                                   |1st-Time|
-|-------------------------------------------|--------|
-| Basic Maths                               | ⏱️     |
-| Units & Measurements                      | ⛔     |
-| Motion In a Straight Line                 | ⛔     |
-| Motion In a Plane                         | ⛔     |
-| Laws of Motion                            | ⛔     |
-| Work, Energy & Power                      | ⛔     |
-| System of Particles and Rotational Motion | ⛔     |
-| Gravitation                               | ⛔     |
-| Mechanical Properties of Solids           | ⛔     |
-| Mechanical Properties of Fluids           | ⛔     |
-| Thermal Properties of Matter              | ⛔     |
-| Thermodynamics                            | ⛔     |
-| Kinetic Theory                            | ⛔     |
-| Oscillations                              | ⛔     |
-| Waves                                     | ⛔     |
-| Electric Charges & Feilds                 | ⛔     |
-| Electrostatic Potential & Capacitance     | ⛔     |
-| Current Electricity                       | ⛔     |
-| Moving Charges & Magnetism                | ⛔     |
-| Magnetism & Matter                        | ⛔     |
-| Electromagnetic Induction                 | ⛔     |
-| Alternating Current                       | ⛔     |
-| Electromagnetic Waves                     | ⛔     |
-| Ray Optics and Optical Instruments        | ⛔     |
-| Wave Optics                               | ⛔     |
-| Dual Nature of Radiation and Matter       | ⛔     |
-| Atoms                                     | ⛔     |
-| Nuclei                                    | ⛔     |
-| Semiconductor                             | ⛔     |
+| Chapter                                   | 1|
+|-------------------------------------------|--|
+| Units & Measurements                      |⛔|
+| Motion In a Straight Line                 |⛔|
+| Motion In a Plane                         |⛔|
+| Basic Maths                               |⏱️|
+| Laws of Motion                            |⛔|
+| Work, Energy & Power                      |⛔|
+| System of Particles and Rotational Motion |⛔|
+| Gravitation                               |⛔|
+| Mechanical Properties of Solids           |⛔|
+| Mechanical Properties of Fluids           |⛔|
+| Thermal Properties of Matter              |⛔|
+| Thermodynamics                            |⛔|
+| Kinetic Theory                            |⛔|
+| Oscillations                              |⛔|
+| Waves                                     |⛔|
+| Electric Charges & Feilds                 |⛔|
+| Electrostatic Potential & Capacitance     |⛔|
+| Current Electricity                       |⛔|
+| Moving Charges & Magnetism                |⛔|
+| Magnetism & Matter                        |⛔|
+| Electromagnetic Induction                 |⛔|
+| Alternating Current                       |⛔|
+| Electromagnetic Waves                     |⛔|
+| Ray Optics and Optical Instruments        |⛔|
+| Wave Optics                               |⛔|
+| Dual Nature of Radiation and Matter       |⛔|
+| Atoms                                     |⛔|
+| Nuclei                                    |⛔|
+| Semiconductor                             |⛔|
 ---
 </details>
 
@@ -276,27 +289,27 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
     - Don't be a Looser 
 -->
 
-| Chapter                                 |1st-Time|
-|-----------------------------------------|--------|
-| Some Basic Concepts Of Chemistry        | ⏱️     |
-| Structure of Atom                       | ⛔     |
-| Classification of Periodic Properties   | ⛔     |
-| Chemical Bonding                        | ⛔     |
-| Thermodynamics                          | ⛔     |
-| Equilibrium                             | ⛔     |
-| Redox Reactions                         | ⛔     |
-| Organic Chemistry - Basics              | ⛔     |
-| Hydrocarbons                            | ⛔     |
-| Solutions                               | ⛔     |
-| Electrochemistry                        | ⛔     |
-| Chemical Kinetics                       | ⛔     |
-| D & F Block                             | ⛔     |
-| Coordination Compounds                  | ⛔     |
-| Haloalkens & Haloarenes                 | ⛔     |
-| Alcohols, Phenols & Ethers              | ⛔     |
-| Aldehydes, Ketones and Carboxylic Acids | ⛔     |
-| Amines                                  | ⛔     |
-| Biomolecules                            | ⛔     |
+| Chapter                                 | 1|
+|-----------------------------------------|--|
+| Some Basic Concepts Of Chemistry        |⏱️|
+| Structure of Atom                       |⛔|
+| Classification of Periodic Properties   |⛔|
+| Chemical Bonding                        |⛔|
+| Thermodynamics                          |⛔|
+| Equilibrium                             |⛔|
+| Redox Reactions                         |⛔|
+| Organic Chemistry - Basics              |⛔|
+| Hydrocarbons                            |⛔|
+| Solutions                               |⛔|
+| Electrochemistry                        |⛔|
+| Chemical Kinetics                       |⛔|
+| D & F Block                             |⛔|
+| Coordination Compounds                  |⛔|
+| Haloalkens & Haloarenes                 |⛔|
+| Alcohols, Phenols & Ethers              |⛔|
+| Aldehydes, Ketones and Carboxylic Acids |⛔|
+| Amines                                  |⛔|
+| Biomolecules                            |⛔|
 </details>
 
 <details><summary>📘 Mathematics</summary>
@@ -321,35 +334,35 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
         -- 4 copies (Class NOTES, DPP & Module, Mock Test Analysis, Extra Revision, )
 -->
 
-| Chapter                                 |1st-Time|
-|-----------------------------------------|--------|
-| Sets                                    | ⏱️     |
-| Relations and Functions                 | ⛔     |
-| Trigonometric Functions                 | ⛔     | 
-| Complex Numbers and Quadratic Equations | ⛔     | 
-| Linear Inequalities                     | ⛔     |  
-| Permutations and Combinations           | ⛔     |  
-| Binomial Theorem                        | ⛔     |  
-| Sequence and Series                     | ⛔     |  
-| Straight Lines                          | ⛔     |  
-| Conic Sections                          | ⛔     |  
-| Introduction to 3D Geometry             | ⛔     |  
-| Limits & Derivatives                    | ⛔     |  
-| Statistics                              | ⛔     |  
-| Probability                             | ⛔     |  
-| Relations and Functions                 | ⛔     | 
-| Inverse Trigonometric Functions         | ⛔     | 
-| Matrices                                | ⛔     | 
-| Determinants                            | ⛔     | 
-| Continuity and Differentiability        | ⛔     | 
-| Application of Derivatives              | ⛔     | 
-| Integrals                               | ⛔     | 
-| Application of Integrals                | ⛔     | 
-| Differential Equations                  | ⛔     | 
-| Vector Algebra                          | ⛔     | 
-| 3D Geometry                             | ⛔     | 
-| Linear Programming                      | ⛔     | 
-| Probability                             | ⛔     | 
+| Chapter                                 | 1|
+|-----------------------------------------|--|
+| Sets                                    |⏱️|
+| Relations and Functions                 |⛔|
+| Trigonometric Functions                 |⛔| 
+| Complex Numbers and Quadratic Equations |⛔| 
+| Linear Inequalities                     |⛔|  
+| Permutations and Combinations           |⛔|  
+| Binomial Theorem                        |⛔|  
+| Sequence and Series                     |⛔|  
+| Straight Lines                          |⛔|  
+| Conic Sections                          |⛔|  
+| Introduction to 3D Geometry             |⛔|  
+| Limits & Derivatives                    |⛔|  
+| Statistics                              |⛔|  
+| Probability                             |⛔|  
+| Relations and Functions                 |⛔| 
+| Inverse Trigonometric Functions         |⛔| 
+| Matrices                                |⛔| 
+| Determinants                            |⛔| 
+| Continuity and Differentiability        |⛔| 
+| Application of Derivatives              |⛔| 
+| Integrals                               |⛔| 
+| Application of Integrals                |⛔| 
+| Differential Equations                  |⛔| 
+| Vector Algebra                          |⛔| 
+| 3D Geometry                             |⛔| 
+| Linear Programming                      |⛔| 
+| Probability                             |⛔| 
 </details>
 
 <details><summary>🧬 Biology</summary>
@@ -362,115 +375,115 @@ Hi, I'm Sayak, and from **11th July 2025 to 18th March 2026**—for the next 250
     >>> Solving Multiple Different type of Question is Must 
 -->
 
-| Chapter                                  |1st-Time|
-|------------------------------------------|--------|
-| Biomolecules                             | ⏱️     |
-| The Living World                         | ⛔     |
-| Biological Classification                | ⛔     |   
-| Plant Kingdom                            | ⛔     |   
-| Animal Kingdom                           | ⛔     |   
-| Morphology of Flowering Plants           | ⛔     |   
-| Anatomy of Flowering Plants              | ⛔     |   
-| Structural Organisation in Animals       | ⛔     |   
-| Cell : The Unit of Life                  | ⛔     |   
-| Cell Cycle & Cell Division               | ⛔     |   
-| Photosynthesis in Higher Plants          | ⛔     |   
-| Respiration in Plants                    | ⛔     |   
-| Plant Growth and Development             | ⛔     |   
-| Breathing and Exchange of Gases          | ⛔     |   
-| Body Fluids and Circulation              | ⛔     |   
-| Excretory Products and their Elimination | ⛔     |   
-| Locomotion and Movement                  | ⛔     |   
-| Neural Control and Coordination          | ⛔     |   
-| Chemical Coordination and Integration    | ⛔     |   
-| Sexual Reproduction in Flowering Plants  | ⛔     |   
-| Human Reproduction                       | ⛔     |   
-| Reproductive Health                      | ⛔     |   
-| Principles of Inheritance and Variation  | ⛔     |   
-| Molecular Basis of Inheritance           | ⛔     |   
-| Evolution                                | ⛔     |   
-| Human Health and Disease                 | ⛔     |   
-| Microbes in Human Welfare                | ⛔     |   
-| Biotechnology : Principles and Processes | ⛔     |   
-| Biotechnology and its Applications       | ⛔     |   
-| Organisms and Populations                | ⛔     |   
-| Ecosystem                                | ⛔     |   
-| Biodiversity and Conservation            | ⛔     |   
+| Chapter                                  | 1|
+|------------------------------------------|--|
+| Biomolecules                             |⏱️|
+| The Living World                         |⛔|
+| Biological Classification                |⛔|   
+| Plant Kingdom                            |⛔|   
+| Animal Kingdom                           |⛔|   
+| Morphology of Flowering Plants           |⛔|   
+| Anatomy of Flowering Plants              |⛔|   
+| Structural Organisation in Animals       |⛔|   
+| Cell : The Unit of Life                  |⛔|   
+| Cell Cycle & Cell Division               |⛔|   
+| Photosynthesis in Higher Plants          |⛔|   
+| Respiration in Plants                    |⛔|   
+| Plant Growth and Development             |⛔|   
+| Breathing and Exchange of Gases          |⛔|   
+| Body Fluids and Circulation              |⛔|   
+| Excretory Products and their Elimination |⛔|   
+| Locomotion and Movement                  |⛔|   
+| Neural Control and Coordination          |⛔|   
+| Chemical Coordination and Integration    |⛔|   
+| Sexual Reproduction in Flowering Plants  |⛔|   
+| Human Reproduction                       |⛔|   
+| Reproductive Health                      |⛔|   
+| Principles of Inheritance and Variation  |⛔|   
+| Molecular Basis of Inheritance           |⛔|   
+| Evolution                                |⛔|   
+| Human Health and Disease                 |⛔|   
+| Microbes in Human Welfare                |⛔|   
+| Biotechnology : Principles and Processes |⛔|   
+| Biotechnology and its Applications       |⛔|   
+| Organisms and Populations                |⛔|   
+| Ecosystem                                |⛔|   
+| Biodiversity and Conservation            |⛔|   
 </details>
 
 <details><summary>📝 PYQs</summary>
 
-| Exam Name + Year + Session / Paper | Status |
-|------------------------------------|--------|
-| IAT 2017                           | ⛔     |
-| IAT 2018                           | ⛔     |
-| IAT 2019                           | ⛔     |
-| IAT 2021                           | ⛔     |
-| IAT 2022                           | ⛔     |
-| IAT 2023                           | ⛔     |
-| IAT 2024                           | ⛔     |
-| NEST 2007                          | ⛔     |
-| NEST 2008                          | ⛔     |
-| NEST 2009                          | ⛔     |
-| NEST 2010                          | ⛔     |
-| NEST 2011                          | ⛔     |
-| NEST 2012                          | ⛔     |
-| NEST 2013                          | ⛔     |
-| NEST 2014                          | ⛔     |
-| NEST 2015                          | ⛔     |
-| NEST 2016                          | ⛔     |
-| NEST 2017                          | ⛔     |
-| NEST 2018                          | ⛔     |
-| NEST 2019 Session-1                | ⛔     |
-| NEST 2019 Session-2                | ⛔     |
-| NEST 2020 Session-1                | ⛔     |
-| NEST 2020 Session-2                | ⛔     |
-| NEST 2021 Session-1                | ⛔     |
-| NEST 2021 Session-2                | ⛔     |
-| NEST 2022 Session-1                | ⛔     |
-| NEST 2022 Session-2                | ⛔     |
-| NEST 2023 Session-1                | ⛔     |
-| NEST 2023 Session-2                | ⛔     |
-| NEST 2024 Session-1                | ⛔     |
-| NEST 2024 Session-2                | ⛔     |
-| IACS UPST 2022                     | ⛔     |
-| IACS UPST 2024                     | ⛔     |
-| JEE Advanced 2007 Paper 1          | ⛔     |
-| JEE Advanced 2007 Paper 2          | ⛔     |
-| JEE Advanced 2008 Paper 1          | ⛔     |
-| JEE Advanced 2008 Paper 2          | ⛔     |
-| JEE Advanced 2009 Paper 1          | ⛔     |
-| JEE Advanced 2009 Paper 2          | ⛔     |
-| JEE Advanced 2010 Paper 1          | ⛔     |
-| JEE Advanced 2010 Paper 2          | ⛔     |
-| JEE Advanced 2011 Paper 1          | ⛔     |
-| JEE Advanced 2011 Paper 2          | ⛔     |
-| JEE Advanced 2012 Paper 1          | ⛔     |
-| JEE Advanced 2012 Paper 2          | ⛔     |
-| JEE Advanced 2013 Paper 1          | ⛔     |
-| JEE Advanced 2013 Paper 2          | ⛔     |
-| JEE Advanced 2014 Paper 1          | ⛔     |
-| JEE Advanced 2014 Paper 2          | ⛔     |
-| JEE Advanced 2015 Paper 1          | ⛔     |
-| JEE Advanced 2015 Paper 2          | ⛔     |
-| JEE Advanced 2016 Paper 1          | ⛔     |
-| JEE Advanced 2016 Paper 2          | ⛔     |
-| JEE Advanced 2017 Paper 1          | ⛔     |
-| JEE Advanced 2017 Paper 2          | ⛔     |
-| JEE Advanced 2018 Paper 1          | ⛔     |
-| JEE Advanced 2018 Paper 2          | ⛔     |
-| JEE Advanced 2019 Paper 1          | ⛔     |
-| JEE Advanced 2019 Paper 2          | ⛔     |
-| JEE Advanced 2020 Paper 1          | ⛔     |
-| JEE Advanced 2020 Paper 2          | ⛔     |
-| JEE Advanced 2021 Paper 1          | ⛔     |
-| JEE Advanced 2021 Paper 2          | ⛔     |
-| JEE Advanced 2022 Paper 1          | ⛔     |
-| JEE Advanced 2022 Paper 2          | ⛔     |
-| JEE Advanced 2023 Paper 1          | ⛔     |
-| JEE Advanced 2023 Paper 2          | ⛔     |
-| JEE Advanced 2024 Paper 1          | ⛔     |
-| JEE Advanced 2024 Paper 2          | ⛔     |
+| Exam Name + Year + Session / Paper |✅|
+|------------------------------------|--|
+| IAT 2017                           |⛔|
+| IAT 2018                           |⛔|
+| IAT 2019                           |⛔|
+| IAT 2021                           |⛔|
+| IAT 2022                           |⛔|
+| IAT 2023                           |⛔|
+| IAT 2024                           |⛔|
+| NEST 2007                          |⛔|
+| NEST 2008                          |⛔|
+| NEST 2009                          |⛔|
+| NEST 2010                          |⛔|
+| NEST 2011                          |⛔|
+| NEST 2012                          |⛔|
+| NEST 2013                          |⛔|
+| NEST 2014                          |⛔|
+| NEST 2015                          |⛔|
+| NEST 2016                          |⛔|
+| NEST 2017                          |⛔|
+| NEST 2018                          |⛔|
+| NEST 2019 Session-1                |⛔|
+| NEST 2019 Session-2                |⛔|
+| NEST 2020 Session-1                |⛔|
+| NEST 2020 Session-2                |⛔|
+| NEST 2021 Session-1                |⛔|
+| NEST 2021 Session-2                |⛔|
+| NEST 2022 Session-1                |⛔|
+| NEST 2022 Session-2                |⛔|
+| NEST 2023 Session-1                |⛔|
+| NEST 2023 Session-2                |⛔|
+| NEST 2024 Session-1                |⛔|
+| NEST 2024 Session-2                |⛔|
+| IACS UPST 2022                     |⛔|
+| IACS UPST 2024                     |⛔|
+| JEE Advanced 2007 Paper 1          |⛔|
+| JEE Advanced 2007 Paper 2          |⛔|
+| JEE Advanced 2008 Paper 1          |⛔|
+| JEE Advanced 2008 Paper 2          |⛔|
+| JEE Advanced 2009 Paper 1          |⛔|
+| JEE Advanced 2009 Paper 2          |⛔|
+| JEE Advanced 2010 Paper 1          |⛔|
+| JEE Advanced 2010 Paper 2          |⛔|
+| JEE Advanced 2011 Paper 1          |⛔|
+| JEE Advanced 2011 Paper 2          |⛔|
+| JEE Advanced 2012 Paper 1          |⛔|
+| JEE Advanced 2012 Paper 2          |⛔|
+| JEE Advanced 2013 Paper 1          |⛔|
+| JEE Advanced 2013 Paper 2          |⛔|
+| JEE Advanced 2014 Paper 1          |⛔|
+| JEE Advanced 2014 Paper 2          |⛔|
+| JEE Advanced 2015 Paper 1          |⛔|
+| JEE Advanced 2015 Paper 2          |⛔|
+| JEE Advanced 2016 Paper 1          |⛔|
+| JEE Advanced 2016 Paper 2          |⛔|
+| JEE Advanced 2017 Paper 1          |⛔|
+| JEE Advanced 2017 Paper 2          |⛔|
+| JEE Advanced 2018 Paper 1          |⛔|
+| JEE Advanced 2018 Paper 2          |⛔|
+| JEE Advanced 2019 Paper 1          |⛔|
+| JEE Advanced 2019 Paper 2          |⛔|
+| JEE Advanced 2020 Paper 1          |⛔|
+| JEE Advanced 2020 Paper 2          |⛔|
+| JEE Advanced 2021 Paper 1          |⛔|
+| JEE Advanced 2021 Paper 2          |⛔|
+| JEE Advanced 2022 Paper 1          |⛔|
+| JEE Advanced 2022 Paper 2          |⛔|
+| JEE Advanced 2023 Paper 1          |⛔|
+| JEE Advanced 2023 Paper 2          |⛔|
+| JEE Advanced 2024 Paper 1          |⛔|
+| JEE Advanced 2024 Paper 2          |⛔|
 -->
 </details>
 
