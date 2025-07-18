@@ -789,4 +789,11 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 - [18-03-2026]()
 </details>
 -->
+</details>
 
+## 🎥 Movie I watch 😍
+
+<video width="600" controls>
+  <source src="https://gitea.com/leenazeliang/Interstellar/raw/main/Files/Interstellar-EnglishOnly.mp4" type="video/mp4">
+  Sorry, your browser doesn't support embedded videos.
+</video>
