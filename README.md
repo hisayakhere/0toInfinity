@@ -486,6 +486,23 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 | JEE Advanced 2024 Paper 2          |⛔|NotDone|
 
 </details>
+<details><summary>📑 Mock Test</summary>
+| Date    | Tests       | Score  |
+|---------|-------------|--------|
+| 03/08/25| IAT Mock 1  | XXX/240|
+| 24/08/25| NEST Mock 1 | XXX/180|
+| 14/09/25| IAT Mock 2  | XXX/240|
+| 05/10/25| NEST Mock 2 | XXX/180|
+| 26/10/25| IAT Mock 3  | XXX/240|
+| 16/11/25| NEST Mock 3 | XXX/180|
+| 07/12/25| IAT Mock 4  | XXX/240|
+| 28/12/25| NEST Mock 4 | XXX/180|
+| 18/01/26| IAT Mock 5  | XXX/240|
+| 08/02/26| NEST Mock 5 | XXX/180|
+| 01/03/26| IAT Mock 6  | XXX/240|
+| 08/03/26| NEST Mock 6 | XXX/180|
+
+</details>
 
 
 ## Daily Wins
