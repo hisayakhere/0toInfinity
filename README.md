@@ -434,56 +434,56 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 | NEST 2016                          |⛔|NotDone|
 | NEST 2017                          |⛔|NotDone|
 | NEST 2018                          |⛔|NotDone|
-| NEST 2019 Session-1                |⛔|NotDone|
-| NEST 2019 Session-2                |⛔|NotDone|
-| NEST 2020 Session-1                |⛔|NotDone|
-| NEST 2020 Session-2                |⛔|NotDone|
-| NEST 2021 Session-1                |⛔|NotDone|
-| NEST 2021 Session-2                |⛔|NotDone|
-| NEST 2022 Session-1                |⛔|NotDone|
-| NEST 2022 Session-2                |⛔|NotDone|
-| NEST 2023 Session-1                |⛔|NotDone|
-| NEST 2023 Session-2                |⛔|NotDone|
-| NEST 2024 Session-1                |⛔|NotDone|
-| NEST 2024 Session-2                |⛔|NotDone|
+| NEST 2019 Session1                 |⛔|NotDone|
+| NEST 2019 Session2                 |⛔|NotDone|
+| NEST 2020 Session1                 |⛔|NotDone|
+| NEST 2020 Session2                 |⛔|NotDone|
+| NEST 2021 Session1                 |⛔|NotDone|
+| NEST 2021 Session2                 |⛔|NotDone|
+| NEST 2022 Session1                 |⛔|NotDone|
+| NEST 2022 Session2                 |⛔|NotDone|
+| NEST 2023 Session1                 |⛔|NotDone|
+| NEST 2023 Session2                 |⛔|NotDone|
+| NEST 2024 Session1                 |⛔|NotDone|
+| NEST 2024 Session2                 |⛔|NotDone|
 | IACS UPST 2022                     |⛔|NotDone|
 | IACS UPST 2024                     |⛔|NotDone|
-| JEE Advanced 2007 Paper 1          |⛔|NotDone|
-| JEE Advanced 2007 Paper 2          |⛔|NotDone|
-| JEE Advanced 2008 Paper 1          |⛔|NotDone|
-| JEE Advanced 2008 Paper 2          |⛔|NotDone|
-| JEE Advanced 2009 Paper 1          |⛔|NotDone|
-| JEE Advanced 2009 Paper 2          |⛔|NotDone|
-| JEE Advanced 2010 Paper 1          |⛔|NotDone|
-| JEE Advanced 2010 Paper 2          |⛔|NotDone|
-| JEE Advanced 2011 Paper 1          |⛔|NotDone|
-| JEE Advanced 2011 Paper 2          |⛔|NotDone|
-| JEE Advanced 2012 Paper 1          |⛔|NotDone|
-| JEE Advanced 2012 Paper 2          |⛔|NotDone|
-| JEE Advanced 2013 Paper 1          |⛔|NotDone|
-| JEE Advanced 2013 Paper 2          |⛔|NotDone|
-| JEE Advanced 2014 Paper 1          |⛔|NotDone|
-| JEE Advanced 2014 Paper 2          |⛔|NotDone|
-| JEE Advanced 2015 Paper 1          |⛔|NotDone|
-| JEE Advanced 2015 Paper 2          |⛔|NotDone|
-| JEE Advanced 2016 Paper 1          |⛔|NotDone|
-| JEE Advanced 2016 Paper 2          |⛔|NotDone|
-| JEE Advanced 2017 Paper 1          |⛔|NotDone|
-| JEE Advanced 2017 Paper 2          |⛔|NotDone|
-| JEE Advanced 2018 Paper 1          |⛔|NotDone|
-| JEE Advanced 2018 Paper 2          |⛔|NotDone|
-| JEE Advanced 2019 Paper 1          |⛔|NotDone|
-| JEE Advanced 2019 Paper 2          |⛔|NotDone|
-| JEE Advanced 2020 Paper 1          |⛔|NotDone|
-| JEE Advanced 2020 Paper 2          |⛔|NotDone|
-| JEE Advanced 2021 Paper 1          |⛔|NotDone|
-| JEE Advanced 2021 Paper 2          |⛔|NotDone|
-| JEE Advanced 2022 Paper 1          |⛔|NotDone|
-| JEE Advanced 2022 Paper 2          |⛔|NotDone|
-| JEE Advanced 2023 Paper 1          |⛔|NotDone|
-| JEE Advanced 2023 Paper 2          |⛔|NotDone|
-| JEE Advanced 2024 Paper 1          |⛔|NotDone|
-| JEE Advanced 2024 Paper 2          |⛔|NotDone|
+| JEE A 2007 Paper1                  |⛔|NotDone|
+| JEE A 2007 Paper2                  |⛔|NotDone|
+| JEE A 2008 Paper1                  |⛔|NotDone|
+| JEE A 2008 Paper2                  |⛔|NotDone|
+| JEE A 2009 Paper1                  |⛔|NotDone|
+| JEE A 2009 Paper2                  |⛔|NotDone|
+| JEE A 2010 Paper1                  |⛔|NotDone|
+| JEE A 2010 Paper2                  |⛔|NotDone|
+| JEE A 2011 Paper1                  |⛔|NotDone|
+| JEE A 2011 Paper2                  |⛔|NotDone|
+| JEE A 2012 Paper1                  |⛔|NotDone|
+| JEE A 2012 Paper2                  |⛔|NotDone|
+| JEE A 2013 Paper1                  |⛔|NotDone|
+| JEE A 2013 Paper2                  |⛔|NotDone|
+| JEE A 2014 Paper1                  |⛔|NotDone|
+| JEE A 2014 Paper2                  |⛔|NotDone|
+| JEE A 2015 Paper1                  |⛔|NotDone|
+| JEE A 2015 Paper2                  |⛔|NotDone|
+| JEE A 2016 Paper1                  |⛔|NotDone|
+| JEE A 2016 Paper2                  |⛔|NotDone|
+| JEE A 2017 Paper1                  |⛔|NotDone|
+| JEE A 2017 Paper2                  |⛔|NotDone|
+| JEE A 2018 Paper1                  |⛔|NotDone|
+| JEE A 2018 Paper2                  |⛔|NotDone|
+| JEE A 2019 Paper1                  |⛔|NotDone|
+| JEE A 2019 Paper2                  |⛔|NotDone|
+| JEE A 2020 Paper1                  |⛔|NotDone|
+| JEE A 2020 Paper2                  |⛔|NotDone|
+| JEE A 2021 Paper1                  |⛔|NotDone|
+| JEE A 2021 Paper2                  |⛔|NotDone|
+| JEE A 2022 Paper1                  |⛔|NotDone|
+| JEE A 2022 Paper2                  |⛔|NotDone|
+| JEE A 2023 Paper1                  |⛔|NotDone|
+| JEE A 2023 Paper2                  |⛔|NotDone|
+| JEE A 2024 Paper1                  |⛔|NotDone|
+| JEE A 2024 Paper2                  |⛔|NotDone|
 
 </details>
 <details><summary>📑 Mock Test</summary>
