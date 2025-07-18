@@ -413,77 +413,77 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 
 <details><summary>📝 PYQs</summary>
 
-| Exam Name + Year + Session / Paper |✅|Analysis |
-|------------------------------------|--|---------|
-| IAT 2017                           |⛔|NotDone|
-| IAT 2018                           |⛔|NotDone|
-| IAT 2019                           |⛔|NotDone|
-| IAT 2021                           |⛔|NotDone|
-| IAT 2022                           |⛔|NotDone|
-| IAT 2023                           |⛔|NotDone|
-| IAT 2024                           |⛔|NotDone|
-| NEST 2007                          |⛔|NotDone|
-| NEST 2008                          |⛔|NotDone|
-| NEST 2009                          |⛔|NotDone|
-| NEST 2010                          |⛔|NotDone|
-| NEST 2011                          |⛔|NotDone|
-| NEST 2012                          |⛔|NotDone|
-| NEST 2013                          |⛔|NotDone|
-| NEST 2014                          |⛔|NotDone|
-| NEST 2015                          |⛔|NotDone|
-| NEST 2016                          |⛔|NotDone|
-| NEST 2017                          |⛔|NotDone|
-| NEST 2018                          |⛔|NotDone|
-| NEST 2019 Session1                 |⛔|NotDone|
-| NEST 2019 Session2                 |⛔|NotDone|
-| NEST 2020 Session1                 |⛔|NotDone|
-| NEST 2020 Session2                 |⛔|NotDone|
-| NEST 2021 Session1                 |⛔|NotDone|
-| NEST 2021 Session2                 |⛔|NotDone|
-| NEST 2022 Session1                 |⛔|NotDone|
-| NEST 2022 Session2                 |⛔|NotDone|
-| NEST 2023 Session1                 |⛔|NotDone|
-| NEST 2023 Session2                 |⛔|NotDone|
-| NEST 2024 Session1                 |⛔|NotDone|
-| NEST 2024 Session2                 |⛔|NotDone|
-| IACS UPST 2022                     |⛔|NotDone|
-| IACS UPST 2024                     |⛔|NotDone|
-| JEE A 2007 Paper1                  |⛔|NotDone|
-| JEE A 2007 Paper2                  |⛔|NotDone|
-| JEE A 2008 Paper1                  |⛔|NotDone|
-| JEE A 2008 Paper2                  |⛔|NotDone|
-| JEE A 2009 Paper1                  |⛔|NotDone|
-| JEE A 2009 Paper2                  |⛔|NotDone|
-| JEE A 2010 Paper1                  |⛔|NotDone|
-| JEE A 2010 Paper2                  |⛔|NotDone|
-| JEE A 2011 Paper1                  |⛔|NotDone|
-| JEE A 2011 Paper2                  |⛔|NotDone|
-| JEE A 2012 Paper1                  |⛔|NotDone|
-| JEE A 2012 Paper2                  |⛔|NotDone|
-| JEE A 2013 Paper1                  |⛔|NotDone|
-| JEE A 2013 Paper2                  |⛔|NotDone|
-| JEE A 2014 Paper1                  |⛔|NotDone|
-| JEE A 2014 Paper2                  |⛔|NotDone|
-| JEE A 2015 Paper1                  |⛔|NotDone|
-| JEE A 2015 Paper2                  |⛔|NotDone|
-| JEE A 2016 Paper1                  |⛔|NotDone|
-| JEE A 2016 Paper2                  |⛔|NotDone|
-| JEE A 2017 Paper1                  |⛔|NotDone|
-| JEE A 2017 Paper2                  |⛔|NotDone|
-| JEE A 2018 Paper1                  |⛔|NotDone|
-| JEE A 2018 Paper2                  |⛔|NotDone|
-| JEE A 2019 Paper1                  |⛔|NotDone|
-| JEE A 2019 Paper2                  |⛔|NotDone|
-| JEE A 2020 Paper1                  |⛔|NotDone|
-| JEE A 2020 Paper2                  |⛔|NotDone|
-| JEE A 2021 Paper1                  |⛔|NotDone|
-| JEE A 2021 Paper2                  |⛔|NotDone|
-| JEE A 2022 Paper1                  |⛔|NotDone|
-| JEE A 2022 Paper2                  |⛔|NotDone|
-| JEE A 2023 Paper1                  |⛔|NotDone|
-| JEE A 2023 Paper2                  |⛔|NotDone|
-| JEE A 2024 Paper1                  |⛔|NotDone|
-| JEE A 2024 Paper2                  |⛔|NotDone|
+| Exam Name + Year + Session / Paper |✅|Analysis|
+|------------------------------------|--|--------|
+| IAT2017                            |⛔|NotDone|
+| IAT2018                            |⛔|NotDone|
+| IAT2019                            |⛔|NotDone|
+| IAT2021                            |⛔|NotDone|
+| IAT2022                            |⛔|NotDone|
+| IAT2023                            |⛔|NotDone|
+| IAT2024                            |⛔|NotDone|
+| NEST2007                           |⛔|NotDone|
+| NEST2008                           |⛔|NotDone|
+| NEST2009                           |⛔|NotDone|
+| NEST2010                           |⛔|NotDone|
+| NEST2011                           |⛔|NotDone|
+| NEST2012                           |⛔|NotDone|
+| NEST2013                           |⛔|NotDone|
+| NEST2014                           |⛔|NotDone|
+| NEST2015                           |⛔|NotDone|
+| NEST2016                           |⛔|NotDone|
+| NEST2017                           |⛔|NotDone|
+| NEST2018                           |⛔|NotDone|
+| NEST2019Session1                   |⛔|NotDone|
+| NEST2019Session2                   |⛔|NotDone|
+| NEST2020Session1                   |⛔|NotDone|
+| NEST2020Session2                   |⛔|NotDone|
+| NEST2021Session1                   |⛔|NotDone|
+| NEST2021Session2                   |⛔|NotDone|
+| NEST2022Session1                   |⛔|NotDone|
+| NEST2022Session2                   |⛔|NotDone|
+| NEST2023Session1                   |⛔|NotDone|
+| NEST2023Session2                   |⛔|NotDone|
+| NEST2024Session1                   |⛔|NotDone|
+| NEST2024Session2                   |⛔|NotDone|
+| IACSUPST2022                       |⛔|NotDone|
+| IACSUPST2024                       |⛔|NotDone|
+| JEEA2007Paper1                     |⛔|NotDone|
+| JEEA2007Paper2                     |⛔|NotDone|
+| JEEA2008Paper1                     |⛔|NotDone|
+| JEEA2008Paper2                     |⛔|NotDone|
+| JEEA2009Paper1                     |⛔|NotDone|
+| JEEA2009Paper2                     |⛔|NotDone|
+| JEEA2010Paper1                     |⛔|NotDone|
+| JEEA2010Paper2                     |⛔|NotDone|
+| JEEA2011Paper1                     |⛔|NotDone|
+| JEEA2011Paper2                     |⛔|NotDone|
+| JEEA2012Paper1                     |⛔|NotDone|
+| JEEA2012Paper2                     |⛔|NotDone|
+| JEEA2013Paper1                     |⛔|NotDone|
+| JEEA2013Paper2                     |⛔|NotDone|
+| JEEA2014Paper1                     |⛔|NotDone|
+| JEEA2014Paper2                     |⛔|NotDone|
+| JEEA2015Paper1                     |⛔|NotDone|
+| JEEA2015Paper2                     |⛔|NotDone|
+| JEEA2016Paper1                     |⛔|NotDone|
+| JEEA2016Paper2                     |⛔|NotDone|
+| JEEA2017Paper1                     |⛔|NotDone|
+| JEEA2017Paper2                     |⛔|NotDone|
+| JEEA2018Paper1                     |⛔|NotDone|
+| JEEA2018Paper2                     |⛔|NotDone|
+| JEEA2019Paper1                     |⛔|NotDone|
+| JEEA2019Paper2                     |⛔|NotDone|
+| JEEA2020Paper1                     |⛔|NotDone|
+| JEEA2020Paper2                     |⛔|NotDone|
+| JEEA2021Paper1                     |⛔|NotDone|
+| JEEA2021Paper2                     |⛔|NotDone|
+| JEEA2022Paper1                     |⛔|NotDone|
+| JEEA2022Paper2                     |⛔|NotDone|
+| JEEA2023Paper1                     |⛔|NotDone|
+| JEEA2023Paper2                     |⛔|NotDone|
+| JEEA2024Paper1                     |⛔|NotDone|
+| JEEA2024Paper2                     |⛔|NotDone|
 
 </details>
 <details><summary>📑 Mock Test</summary>
