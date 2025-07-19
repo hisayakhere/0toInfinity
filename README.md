@@ -291,7 +291,7 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 
 | Chapter                                 | 1|R1|R2|R3|R4|R5|R6|R7|R8|
 |-----------------------------------------|--|--|--|--|--|--|--|--|--|
-| Some Basic Concepts Of Chemistry        |⏱️|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
+| Some Basic Concepts Of Chemistry        |✅|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Structure of Atom                       |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Classification of Periodic Properties   |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Chemical Bonding                        |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
