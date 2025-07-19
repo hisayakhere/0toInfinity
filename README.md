@@ -291,7 +291,7 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 
 | Chapter                                 | 1|R1|R2|R3|R4|R5|R6|R7|R8|
 |-----------------------------------------|--|--|--|--|--|--|--|--|--|
-| Some Basic Concepts Of Chemistry        |✅|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
+| Some Basic Concepts Of Chemistry        |⏱️|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Structure of Atom                       |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Classification of Periodic Properties   |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Chemical Bonding                        |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
@@ -336,7 +336,7 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 
 | Chapter                                 | 1|P1|P2|P3|P4|P5|P6|P7|P8|
 |-----------------------------------------|--|--|--|--|--|--|--|--|--|
-| Sets                                    |⏱️|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
+| Sets                                    |✅|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Relations and Functions                 |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Trigonometric Functions                 |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔| 
 | Complex Numbers and Quadratic Equations |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔| 
