@@ -335,9 +335,19 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
         -- 4 copies (Class NOTES, DPP & Module, Mock Test Analysis, Extra Revision, )
 -->
 
+> 1 = Completed in Class <br>
+> P1 = NCERT Done + REVISION cum Self Study Done <br>
+> P2 = DPP Done <br>
+> P3 = SciAstra Module Done <br>
+> P4 = RD Sharam Done <br>
+> P5 = Cengage Done <br>
+> P6 = IAT + NEST PYQs <br>
+> P7 = JEE Advanced PYQs <br>
+> P8 = CMI PYQs <br>
+
 | Chapter                                 | 1|P1|P2|P3|P4|P5|P6|P7|P8|
 |-----------------------------------------|--|--|--|--|--|--|--|--|--|
-| Sets                                    |⏱️|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
+| Sets                                    |✅|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Relations and Functions                 |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|
 | Trigonometric Functions                 |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔| 
 | Complex Numbers and Quadratic Equations |⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔|⛔| 
@@ -433,6 +443,7 @@ SciAstra Mock Book - [IAT](https://gitea.com/hisayakhere/Changing-250/raw/main/F
 SciAstra Mock Book - NEST
 
 </details>
+
 
 ## 🎥 Movie I watch 😍
 
