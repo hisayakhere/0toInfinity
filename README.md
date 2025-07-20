@@ -341,9 +341,9 @@ This isn’t just exam prep — it’s a mission to explore science with **curio
 > P3 = SciAstra Module Done <br>
 > P4 = RD Sharam Done <br>
 > P5 = Cengage Done <br>
-> P6 = IAT + NEST PYQs <br>
-> P7 = JEE Advanced PYQs <br>
-> P8 = CMI PYQs <br>
+> P6 = IAT + NEST PYQs Done<br>
+> P7 = JEE Advanced PYQs Done<br>
+> P8 = CMI PYQs Done<br>
 
 | Chapter                                 | 1|P1|P2|P3|P4|P5|P6|P7|P8|
 |-----------------------------------------|--|--|--|--|--|--|--|--|--|
