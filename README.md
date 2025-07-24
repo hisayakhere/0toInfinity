@@ -156,8 +156,8 @@
 
 <details><summary>📝 JEE-Advanced PYQs</summary> 
 
-| Exam         | Year | Paper   | Link                                                                                       |✅|Analysis|
-|--------------|------|---------|--------------------------------------------------------------------------------------------|--|-------|
+| Exam         | Year | Paper  | Link                                                                                       |✅|Analysis|
+|--------------|------|--------|--------------------------------------------------------------------------------------------|--|-------|
 | JEE Advanced | 2007 | Paper1 | [View](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-JEEA/2007_1.pdf) |⛔|NotDone|
 |              | 2007 | Paper2 | [View](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-JEEA/2007_2.pdf) |⛔|NotDone|
 |              | 2008 | Paper1 | [View](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-JEEA/2008_1.pdf) |⛔|NotDone|
@@ -199,19 +199,19 @@
 <details><summary>📝 WBJEE PYQs</summary> 
 
 
-| Exam   | Year | Math                                                                                            | P+C                                                                                               |
-|--------|------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| WBJEE  | 2014 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2014WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/P2014WBJEE.pdf)  |
-|        |      |                                                                                                 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/C2014WBJEE.pdf)  |
-|        | 2015 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2015WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2015WBJEE.pdf) |
-|        | 2016 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2016WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2016WBJEE.pdf) | 
-|        | 2017 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2017WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2017WBJEE.pdf) | 
-|        | 2018 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2018WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2018WBJEE.pdf) | 
-|        | 2019 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2019WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2019WBJEE.pdf) | 
-|        | 2020 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2020WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2020WBJEE.pdf) | 
-|        | 2022 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2022WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2022WBJEE.pdf) | 
-|        | 2023 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2023WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2023WBJEE.pdf) | 
-|        | 2024 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2024WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2024WBJEE.pdf) | 
+| Exam   | Year | Math                                                                                           | P+C                                                                                              |✅|Analysis|
+|--------|------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--|--------|
+| WBJEE  | 2014 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2014WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/P2014WBJEE.pdf)  |⛔|NotDone|
+|        |      |                                                                                                | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/C2014WBJEE.pdf)  |⛔|NotDone|
+|        | 2015 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2015WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2015WBJEE.pdf) |⛔|NotDone|
+|        | 2016 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2016WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2016WBJEE.pdf) |⛔|NotDone| 
+|        | 2017 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2017WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2017WBJEE.pdf) |⛔|NotDone| 
+|        | 2018 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2018WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2018WBJEE.pdf) |⛔|NotDone| 
+|        | 2019 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2019WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2019WBJEE.pdf) |⛔|NotDone| 
+|        | 2020 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2020WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2020WBJEE.pdf) |⛔|NotDone| 
+|        | 2022 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2022WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2022WBJEE.pdf) |⛔|NotDone| 
+|        | 2023 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2023WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2023WBJEE.pdf) |⛔|NotDone| 
+|        | 2024 | [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/M2024WBJEE.pdf)| [view](https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/PYQs/PYQs-WBJEE/PC2024WBJEE.pdf) |⛔|NotDone| 
 
 
 
@@ -266,6 +266,11 @@
 
 ### 🧬 Biology</summary>
 
+- <details><summary>09 Biomolecules</summary>
+    <!--Lecture Notes-->
+    - <a href="https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/Notes/B/09Biomolecules/Lecture1.pdf">Lecture 1 Notes</a>
+    - <a href="https://gitea.com/hisayakhere/0toInfinity/raw/main/Files/Notes/B/09Biomolecules/Lecture2.pdf">Lecture 2 Notes</a>
+<details>
 
 <details><summary>📑 Mock Test</summary>
 
